@@ -1,3 +1,7 @@
+<!-- markdownlint-disable -->
+
+
+
 # IREG-IT Portal — Production System Design
 
 **Stack:** React (frontend) + Django/DRF (backend) + PostgreSQL/pgvector (RAG store) + Celery/Redis (async) + GitHub Actions (CI/CD) + Apache (reverse proxy)

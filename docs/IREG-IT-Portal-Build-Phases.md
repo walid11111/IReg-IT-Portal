@@ -1,3 +1,6 @@
+<!-- markdownlint-disable -->
+
+
 # IREG-IT Portal — Build Phases (with real commands)
 
 Follow these phases **in order**. Each one lists the exact commands to run,

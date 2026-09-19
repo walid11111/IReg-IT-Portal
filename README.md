@@ -143,3 +143,7 @@ ireg-it-portal/
  phase 0:   
  python3 -m venv venv
  source venv/bin/activate
+
+ next step in phase 0 push the code to githib .
+
+ then next step login claude desktop on local and sign bu learneireg email for previous data then open previous conversation and and give the next phase 2 step that will give to ypu in details step by step.
