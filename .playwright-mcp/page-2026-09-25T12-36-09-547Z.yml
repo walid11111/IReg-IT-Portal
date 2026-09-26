@@ -1,0 +1,50 @@
+- generic [ref=f1e2]:
+  - navigation [ref=f1e3]:
+    - generic [ref=f1e4]: IREG-IT
+    - list [ref=f1e5]:
+      - listitem [ref=f1e6]:
+        - link "Home" [ref=f1e7] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=f1e8]:
+        - link "About" [ref=f1e9] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=f1e10]:
+        - link "Services" [ref=f1e11] [cursor=pointer]:
+          - /url: /services
+      - listitem [ref=f1e12]:
+        - link "Team" [ref=f1e13] [cursor=pointer]:
+          - /url: /team
+      - listitem [ref=f1e14]:
+        - link "Careers" [ref=f1e15] [cursor=pointer]:
+          - /url: /careers
+      - listitem [ref=f1e16]:
+        - link "Contact" [ref=f1e17] [cursor=pointer]:
+          - /url: /contact
+    - link "Get in Touch" [ref=f1e18] [cursor=pointer]:
+      - /url: /contact
+  - main [ref=f1e19]:
+    - paragraph [ref=f1e20]: Loading...
+  - contentinfo [ref=f1e21]:
+    - generic [ref=f1e22]:
+      - generic [ref=f1e23]:
+        - generic [ref=f1e24]: IREG-IT
+        - paragraph [ref=f1e25]: Information Research and Expert Guide - IT
+      - generic [ref=f1e26]:
+        - paragraph [ref=f1e27]: Follow us
+        - generic [ref=f1e28]:
+          - link "LinkedIn" [ref=f1e29] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ireg-it/
+          - link "Mail" [ref=f1e32] [cursor=pointer]:
+            - /url: mailto:careers.ireg@gmail.com
+          - link "Facebook" [ref=f1e35] [cursor=pointer]:
+            - /url: https://www.facebook.com/groups/1242353146521153/?ref=share
+      - generic [ref=f1e38]:
+        - generic [ref=f1e39]:
+          - paragraph [ref=f1e40]: For more details,
+          - paragraph [ref=f1e41]: support@marys-team.com
+        - generic [ref=f1e42]:
+          - paragraph [ref=f1e43]: Reach our HR Team
+          - link "careers.ireg@gmail.com" [ref=f1e44] [cursor=pointer]:
+            - /url: mailto:careers.ireg@gmail.com
+    - generic [ref=f1e45]: Nasheman e Iqbal Housing Society, Phase I, Near Wapda Town, Lahore.
+    - paragraph [ref=f1e47]: © 2026 IREG-IT. All rights reserved. Built with Django + React.

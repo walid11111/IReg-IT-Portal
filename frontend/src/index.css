@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --navy: #0A1628;
+  --navy-light: #112240;
+  --blue: #2563EB;
+  --blue-light: #3B82F6;
+  --blue-glow: rgba(37,99,235,0.15);
+  --purple: #7C3AED;
+  --cyan: #06B6D4;
+  --gradient: linear-gradient(135deg, #3B82F6 0%, #7C3AED 50%, #06B6D4 100%);
+  --gradient-text: linear-gradient(120deg, #60A5FA, #A78BFA 55%, #22D3EE);
+  --white: #F8FAFC;
+  --slate: #64748B;
+  --slate-light: #94A3B8;
+  --border: rgba(255,255,255,0.08);
+  --card-bg: rgba(17,34,64,0.6);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: var(--navy);
+  color: var(--white);
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(26px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+  will-change: opacity, transform;
+}
+
+.reveal-visible {
+  opacity: 1;
+  transform: none;
+}
+
+::selection {
+  background: rgba(59,130,246,0.35);
+  color: #fff;
+}
+
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: var(--navy); }
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #2563EB, #7C3AED);
+  border-radius: 10px;
+}
+
+.section-label {
+  font-size: 0.75rem; font-weight: 700; letter-spacing: 2px;
+  color: var(--blue-light); text-transform: uppercase; margin-bottom: 0.75rem;
+}
+
+.section-title {
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 800; letter-spacing: -1px;
+  margin-bottom: 3rem; line-height: 1.15;
+}

@@ -1,0 +1,992 @@
+- generic [ref=e1]:
+  - link [aria-hidden] [ref=e1070] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=e3]:
+    - navigation [ref=e1071]:
+      - link [ref=e1072] [cursor=pointer]:
+        - /url: /?trk=public_profile_nav-header-logo
+        - generic [ref=e6]: LinkedIn
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link [ref=e1073] [cursor=pointer]:
+            - /url: https://www.linkedin.com/top-content?trk=public_profile_guest_nav_menu_topContent
+            - generic [ref=e12]: Top Content
+        - listitem [ref=e13]:
+          - link [ref=e1074] [cursor=pointer]:
+            - /url: https://pk.linkedin.com/pub/dir/+/+?trk=public_profile_guest_nav_menu_people
+            - generic [ref=e16]: People
+        - listitem [ref=e17]:
+          - link [ref=e1075] [cursor=pointer]:
+            - /url: https://pk.linkedin.com/learning/search?trk=public_profile_guest_nav_menu_learning
+            - generic [ref=e20]: Learning
+        - listitem [ref=e21]:
+          - link [ref=e1076] [cursor=pointer]:
+            - /url: https://pk.linkedin.com/jobs/jobs-in-lahore?trk=public_profile_guest_nav_menu_jobs
+            - generic [ref=e24]: Jobs
+        - listitem [ref=e25]:
+          - link [ref=e1077] [cursor=pointer]:
+            - /url: https://www.linkedin.com/games?trk=public_profile_guest_nav_menu_games
+            - generic [ref=e28]: Games
+      - generic [ref=e29]:
+        - link [ref=e1078] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319&fromSignIn=true&trk=public_profile_nav-header-signin
+          - text: Sign in
+        - link [ref=e1079] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=saeedullah14319&session_redirect=https%3A%2F%2Fpk.linkedin.com%2Fin%2Fsaeedullah14319&trk=public_profile_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=e32]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - figure [ref=e37]
+        - generic [ref=e40]:
+          - generic [ref=e43]:
+            - generic [ref=e44]:
+              - button [ref=e1081] [cursor=pointer]:
+                - heading [level=1] [ref=e1082]: Saeed Ullah
+              - heading [level=3] [ref=e1083]:
+                - generic [ref=e48]:
+                  - text: Lahore, Punjab, Pakistan
+                  - generic [ref=e49]: ·
+                  - button [ref=e1084] [cursor=pointer]: Contact Info
+                  - generic [ref=e51]: 2K followers · 500+ connections
+              - heading [level=4] [ref=e1085]:
+                - button [ref=e1086] [cursor=pointer]: See your mutual connections
+              - generic [ref=e60]:
+                - link [ref=e1087] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=saeedullah14319&trk=public_profile_top-card-primary-button-join-to-view-profile
+                  - text: Join to view profile
+                - button [ref=e1088] [cursor=pointer]: Message
+            - generic [ref=e65]:
+              - link [ref=e1089] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/company/ireg-it?trk=public_profile_topcard-current-company
+                - generic [ref=e69]: IREG - IT
+              - link [ref=e1090] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/school/universityofpeshawar/?trk=public_profile_topcard-school
+                - generic [ref=e73]: University of Peshawar
+              - link [ref=e1091] [cursor=pointer]:
+                - /url: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fsaeed-dev%2Evercel%2Eapp%2F&urlhash=pgSp&trk=public_profile_topcard-website
+                - generic [ref=e76]: Portfolio
+          - button [ref=e1092] [cursor=pointer]
+      - generic [ref=e80]:
+        - heading [level=2] [ref=e1093]: About
+        - generic [ref=e83]:
+          - text: Full-Stack Engineer specializing in React.js, Node.js, Express.js, and MongoDB — building…
+          - button [ref=e1094] [cursor=pointer]:
+            - generic [ref=e86]: see more
+      - generic [ref=e87]:
+        - heading [level=2] [ref=e1095]: Services
+        - generic [ref=e89]:
+          - list [ref=e90]:
+            - listitem [ref=e91]:
+              - link [ref=e1096] [cursor=pointer]:
+                - /url: https://www.linkedin.com/services/l2/web-designers?trk=public_profile_services_pill
+                - text: Web Design
+            - listitem [ref=e93]:
+              - link [ref=e1097] [cursor=pointer]:
+                - /url: https://www.linkedin.com/services/l2/web-developers?trk=public_profile_services_pill
+                - text: Web Development
+            - listitem [ref=e95]:
+              - link [ref=e1098] [cursor=pointer]:
+                - /url: https://www.linkedin.com/services/l2/database-developers?trk=public_profile_services_pill
+                - text: Database Development
+          - link [ref=e1099] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fservices%2Fpage%2F94092932879660b997%2Frequest-proposal
+            - text: Request proposal
+      - generic [ref=e98]:
+        - heading [level=2] [ref=e1100]: Activity
+        - heading [level=3] [ref=e1101]: 2K followers
+        - generic [ref=e101]:
+          - generic [ref=e102]:
+            - tablist [ref=e103]:
+              - tab [selected] [ref=e1102] [cursor=pointer]: Posts
+              - tab [ref=e1103] [cursor=pointer]: Comments
+              - tab [ref=e1104] [cursor=pointer]: Reactions
+            - tabpanel [ref=e1105]:
+              - generic [ref=e108]:
+                - list [ref=e110]:
+                  - listitem [ref=e111]:
+                    - generic [ref=e112]:
+                      - generic [ref=e114]:
+                        - generic [ref=e115]:
+                          - link [ref=e1106] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e117]: Saeed Ullah
+                          - generic [ref=e119]:
+                            - heading [level=3] [ref=e1108]: Saeed Ullah
+                            - generic [ref=e121]: 1w
+                        - button [ref=e1109] [cursor=pointer]
+                      - generic [ref=e125]:
+                        - link [ref=e1110] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_dario-amodei-ceo-of-anthropic-is-warning-activity-7504640648067788800-1b0g
+                          - generic [ref=e127]: Saeed Ullah shared this
+                        - generic [ref=e128]:
+                          - text: "Dario Amodei (CEO of Anthropic) is warning that AI is getting smarter so fast that we’re about to outrun our ability to keep it safe. Elon agrees. They’re basically begging the government and regulators to step in! Here’s what he’s actually worried about: > AI systems that can hack computers, take over parts of the internet, and knock out banks or power grids > AI becoming good enough at science that someone could use it to design dangerous biological weapons > AI starting to build even smarter AI on its own, until we can no longer understand or control it > All of this happening faster than governments, laws, and safety research can keep up Yikes!"
+                          - link [ref=e1111] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/posts/saeedullah14319_dario-amodei-ceo-of-anthropic-is-warning-activity-7504640648067788800-1b0g
+                            - text: ...more
+                        - link [ref=e1112] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_dario-amodei-ceo-of-anthropic-is-warning-activity-7504640648067788800-1b0g
+                          - generic [ref=e132]: public_profile__posts
+                      - generic [ref=e138]:
+                        - link [ref=e140] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                        - link [ref=e1113] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                        - button [ref=e146] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e147]:
+                    - generic [ref=e148]:
+                      - generic [ref=e150]:
+                        - generic [ref=e151]:
+                          - link [ref=e152] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e153]: Saeed Ullah
+                          - generic [ref=e155]:
+                            - heading [level=3] [ref=e156]: Saeed Ullah
+                            - generic [ref=e157]: 2mo
+                        - button [ref=e160] [cursor=pointer]
+                      - generic [ref=e161]:
+                        - link [ref=e162] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_whatsapp-technews-privacy-activity-7477831444543889408-3XEB
+                          - generic [ref=e163]: Saeed Ullah posted this
+                        - generic [ref=e164]:
+                          - text: 📱 WhatsApp usernames are here. Reserve yours now before someone else does — Settings → Account → Username. Full feature launches later this year, but reservations are open today. With 3B+ users, good handles won't last long. Claimed yours yet? 👇
+                          - link [ref=e165] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwhatsapp&trk=public_profile__posts-text
+                            - text: "#WhatsApp"
+                          - link [ref=e166] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechnews&trk=public_profile__posts-text
+                            - text: "#TechNews"
+                          - link [ref=e167] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fprivacy&trk=public_profile__posts-text
+                            - text: "#Privacy"
+                          - link [ref=e168] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmeta&trk=public_profile__posts-text
+                            - text: "#Meta"
+                      - generic [ref=e170]:
+                        - link [ref=e172] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                        - link [ref=e175] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                        - button [ref=e178] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e179]:
+                    - generic [ref=e180]:
+                      - generic [ref=e182]:
+                        - generic [ref=e183]:
+                          - link [ref=e184] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e185]: Saeed Ullah
+                          - generic [ref=e187]:
+                            - heading [level=3] [ref=e188]: Saeed Ullah
+                            - generic [ref=e189]: 2mo
+                        - button [ref=e192] [cursor=pointer]
+                      - generic [ref=e193]:
+                        - link [ref=e194] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_claudeai-anthropic-ai-activity-7477828053054959616-r9SG
+                          - generic [ref=e195]: Saeed Ullah posted this
+                        - generic [ref=e196]:
+                          - text: 🚨 Claude Sonnet 5 just launched. Most agentic Sonnet model yet — plans tasks, uses tools like browsers and terminals, runs autonomously at a level that needed bigger models just months ago. And it's near-Opus performance at a fraction of the cost. The gap between "cheap model" and "smart model" is closing fast. That changes how we build AI into products. Already testing it, or sticking with your current stack? 👇
+                          - link [ref=e197] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fclaudeai&trk=public_profile__posts-text
+                            - text: "#ClaudeAI"
+                          - link [ref=e198] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fanthropic&trk=public_profile__posts-text
+                            - text: "#Anthropic"
+                          - link [ref=e199] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&trk=public_profile__posts-text
+                            - text: "#AI"
+                          - link [ref=e200] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwaredevelopment&trk=public_profile__posts-text
+                            - text: "#SoftwareDevelopment"
+                          - link [ref=e201] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechnews&trk=public_profile__posts-text
+                            - text: "#TechNews"
+                      - generic [ref=e203]:
+                        - link [ref=e205] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                        - link [ref=e208] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                        - button [ref=e211] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e212]:
+                    - generic [ref=e213]:
+                      - generic [ref=e215]:
+                        - generic [ref=e216]:
+                          - link [ref=e217] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e218]: Saeed Ullah
+                          - generic [ref=e220]:
+                            - heading [level=3] [ref=e221]: Saeed Ullah
+                            - generic [ref=e222]: 2mo
+                        - button [ref=e225] [cursor=pointer]
+                      - generic [ref=e226]:
+                        - link [ref=e227] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_webdevelopment-mernstack-frontenddevelopment-activity-7477825443207905280-OeSc
+                          - generic [ref=e228]: Saeed Ullah posted this
+                        - generic [ref=e229]:
+                          - text: "🚀 2000+ connections on LinkedIn — and counting. A while back I was just a CS student in Peshawar writing my first \"Hello World\" in college labs. Today I'm leading a 5-person frontend team, shipping a 16-module SaaS platform, and still learning something new every single day. A few things that got me here: → Saying yes to hard problems before I felt \"ready\" → Building in public, even when it wasn't perfect → Teaching others (former lecturer life never really leaves you) → Staying consistent on the MERN stack while the JS ecosystem changes every 6 months 😅 Grateful for everyone who's followed this journey — engineers, recruiters, fellow founders, and friends who keep cheering from the sidelines. If you're early in your dev career and feel like you're \"not ready yet\" — you are. Just start. What's one lesson that changed how you work as a developer? Drop it below 👇"
+                          - link [ref=e230] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwebdevelopment&trk=public_profile__posts-text
+                            - text: "#WebDevelopment"
+                          - link [ref=e231] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmernstack&trk=public_profile__posts-text
+                            - text: "#MERNStack"
+                          - link [ref=e232] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffrontenddevelopment&trk=public_profile__posts-text
+                            - text: "#FrontendDevelopment"
+                          - link [ref=e233] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechcommunity&trk=public_profile__posts-text
+                            - text: "#TechCommunity"
+                          - link [ref=e234] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcareergrowth&trk=public_profile__posts-text
+                            - text: "#CareerGrowth"
+                          - link [ref=e235] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwareengineering&trk=public_profile__posts-text
+                            - text: "#SoftwareEngineering"
+                          - link [ref=e236] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/posts/saeedullah14319_webdevelopment-mernstack-frontenddevelopment-activity-7477825443207905280-OeSc
+                            - text: ...more
+                      - generic [ref=e238]:
+                        - link [ref=e240] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                        - link [ref=e243] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                        - button [ref=e246] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e247]:
+                    - generic [ref=e248]:
+                      - generic [ref=e250]:
+                        - generic [ref=e251]:
+                          - link [ref=e252] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e253]: Saeed Ullah
+                          - generic [ref=e255]:
+                            - heading [level=3] [ref=e256]: Saeed Ullah
+                            - generic [ref=e257]: 2mo
+                        - button [ref=e260] [cursor=pointer]
+                      - generic [ref=e261]:
+                        - link [ref=e262] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_need-a-website-for-your-business-at-an-affordable-activity-7477434937499893760-uXd9
+                          - generic [ref=e263]: Saeed Ullah shared this
+                        - generic [ref=e264]:
+                          - text: "Need a Website for Your Business at an Affordable Price? Get a professional website to grow your brand and sales! ✨ Services: 💼 Business Websites 🛒 E-commerce Stores 📄 Portfolio Websites 🛠️ Website Redesigns 🌐 Portfolio:"
+                          - link [ref=e265] [cursor=pointer]:
+                            - /url: https://lnkd.in/dBJ_YD9Y?trk=public_profile__posts-text
+                            - text: https://lnkd.in/dBJ_YD9Y
+                          - text: "📩 DM me or WhatsApp: +92 312 0670212"
+                          - link [ref=e266] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/posts/saeedullah14319_need-a-website-for-your-business-at-an-affordable-activity-7477434937499893760-uXd9
+                            - text: ...more
+                        - link [ref=e268] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_need-a-website-for-your-business-at-an-affordable-activity-7477434937499893760-uXd9
+                          - generic [ref=e269]: public_profile__posts
+                      - generic [ref=e274]:
+                        - link [ref=e276] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                          - generic [aria-hidden] [ref=e277]: "1"
+                        - generic [ref=e278]:
+                          - link [ref=e280] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e283] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e286] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e287]:
+                    - generic [ref=e288]:
+                      - generic [ref=e290]:
+                        - generic [ref=e291]:
+                          - link [ref=e292] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e293]: Saeed Ullah
+                          - generic [ref=e295]:
+                            - heading [level=3] [ref=e296]: Saeed Ullah
+                            - generic [ref=e297]: 2mo
+                        - button [ref=e300] [cursor=pointer]
+                      - generic [ref=e301]:
+                        - link [ref=e302] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_saeed-mashwani-full-stack-engineer-activity-7477434625116569600-M5jj
+                          - generic [ref=e303]: Saeed Ullah shared this
+                        - generic [ref=e304]:
+                          - text: "Need a Website for Your Business at an Affordable Price? Get a professional website to grow your brand and sales! ✨ Services: 💼 Business Websites 🛒 E-commerce Stores 📄 Portfolio Websites 🛠️ Website Redesigns 🌐 Portfolio:"
+                          - link [ref=e305] [cursor=pointer]:
+                            - /url: https://lnkd.in/dBJ_YD9Y?trk=public_profile__posts-text
+                            - text: https://lnkd.in/dBJ_YD9Y
+                          - text: "📩 DM me or WhatsApp: +92 312 067021"
+                      - generic [ref=e306]:
+                        - link [ref=e308] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                          - generic [aria-hidden] [ref=e309]: "2"
+                        - generic [ref=e310]:
+                          - link [ref=e312] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e315] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e318] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e319]:
+                    - generic [ref=e320]:
+                      - generic [ref=e322]:
+                        - generic [ref=e323]:
+                          - link [ref=e324] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e325]: Saeed Ullah
+                          - generic [ref=e327]:
+                            - heading [level=3] [ref=e328]: Saeed Ullah
+                            - generic [ref=e329]: 2mo
+                        - button [ref=e332] [cursor=pointer]
+                      - generic [ref=e333]:
+                        - link [ref=e334] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_httpslnkdindbjyd9y-activity-7477109661524148224-qEb9
+                          - generic [ref=e335]: Saeed Ullah shared this
+                        - link [ref=e337] [cursor=pointer]:
+                          - /url: https://lnkd.in/dBJ_YD9Y?trk=public_profile__posts-text
+                          - text: https://lnkd.in/dBJ_YD9Y
+                        - link [ref=e339] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_httpslnkdindbjyd9y-activity-7477109661524148224-qEb9
+                          - generic [ref=e340]: public_profile__posts
+                      - generic [ref=e345]:
+                        - link [ref=e347] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                          - generic [aria-hidden] [ref=e348]: "1"
+                        - generic [ref=e349]:
+                          - link [ref=e351] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e354] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e357] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e358]:
+                    - generic [ref=e359]:
+                      - generic [ref=e361]:
+                        - generic [ref=e362]:
+                          - link [ref=e363] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e364]: Saeed Ullah
+                          - generic [ref=e366]:
+                            - heading [level=3] [ref=e367]: Saeed Ullah
+                            - generic [ref=e368]: 2mo
+                        - button [ref=e371] [cursor=pointer]
+                      - generic [ref=e372]:
+                        - link [ref=e373] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_linkedin-opentowork-careergrowth-activity-7477108432672829440-vs9J
+                          - generic [ref=e374]: Saeed Ullah shared this
+                        - generic [ref=e375]:
+                          - text: After 3 weeks of building, my portfolio is finally live.
+                          - link [ref=e376] [cursor=pointer]:
+                            - /url: https://lnkd.in/dJqqaX8U?trk=public_profile__posts-text
+                            - text: https://lnkd.in/dJqqaX8U
+                          - text: "Not just another template — every line written from scratch. Here's what went into it: Tech Stack: - React + TypeScript (Frontend) - Node.js + Express (Backend) - Deployed on Vercel + Railway Features I built: - Custom dark/light theme system - Animated hero section with typewriter effect - Projects showcase with live demos - Interactive chatbot assistant - Contact form with real email delivery (Gma - Fully responsive across all devices 3 weeks. Late nights. A lot of debugging. But I learned more building this than I did reading about it. --- Want a portfolio like this? I'm available to build one for you — fully ctures. Not a drag-and-drop template. Anactual coded portfolio that stands out. DM me or reach out — let's talk about what you need."
+                          - link [ref=e377] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flinkedin&trk=public_profile__posts-text
+                            - text: "#LinkedIn"
+                          - link [ref=e378] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopentowork&trk=public_profile__posts-text
+                            - text: "#OpenToWork"
+                          - link [ref=e379] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcareergrowth&trk=public_profile__posts-text
+                            - text: "#CareerGrowth"
+                          - link [ref=e380] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwaredeveloper&trk=public_profile__posts-text
+                            - text: "#SoftwareDeveloper"
+                          - link [ref=e381] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwebdevelopment&trk=public_profile__posts-text
+                            - text: "#WebDevelopment"
+                          - link [ref=e382] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechcareers&trk=public_profile__posts-text
+                            - text: "#TechCareers"
+                          - link [ref=e383] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fportfolio&trk=public_profile__posts-text
+                            - text: "#Portfolio"
+                          - link [ref=e384] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpersonalbrand&trk=public_profile__posts-text
+                            - text: "#PersonalBrand"
+                          - link [ref=e385] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fportfoliolaunch&trk=public_profile__posts-text
+                            - text: "#PortfolioLaunch"
+                          - link [ref=e386] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwareengineer&trk=public_profile__posts-text
+                            - text: "#SoftwareEngineer"
+                          - link [ref=e387] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffullstackdeveloper&trk=public_profile__posts-text
+                            - text: "#FullStackDeveloper"
+                          - link [ref=e388] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freactjs&trk=public_profile__posts-text
+                            - text: "#ReactJS"
+                          - link [ref=e389] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwebdeveloper&trk=public_profile__posts-text
+                            - text: "#WebDeveloper"
+                          - link [ref=e390] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechcommunity&trk=public_profile__posts-text
+                            - text: "#TechCommunity"
+                          - link [ref=e391] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpersonalbranding&trk=public_profile__posts-text
+                            - text: "#PersonalBranding"
+                          - link [ref=e392] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fbuildinpublic&trk=public_profile__posts-text
+                            - text: "#BuildInPublic"
+                          - link [ref=e393] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/posts/saeedullah14319_linkedin-opentowork-careergrowth-activity-7477108432672829440-vs9J
+                            - text: ...more
+                        - link [ref=e395] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_linkedin-opentowork-careergrowth-activity-7477108432672829440-vs9J
+                          - generic [ref=e396]: public_profile__posts
+                      - generic [ref=e401]:
+                        - link [ref=e403] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                          - generic [aria-hidden] [ref=e404]: "2"
+                        - generic [ref=e405]:
+                          - link [ref=e407] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - button [ref=e411] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e412]:
+                    - generic [ref=e413]:
+                      - generic [ref=e415]:
+                        - generic [ref=e416]:
+                          - link [ref=e417] [cursor=pointer]:
+                            - /url: https://pk.linkedin.com/in/saeedullah14319
+                            - generic [ref=e418]: Saeed Ullah
+                          - generic [ref=e420]:
+                            - heading [level=3] [ref=e421]: Saeed Ullah
+                            - generic [ref=e422]: 2mo
+                        - button [ref=e425] [cursor=pointer]
+                      - generic [ref=e426]:
+                        - link [ref=e427] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_linkedin-opentowork-careergrowth-activity-7477106112824197120-HVs1
+                          - generic [ref=e428]: Saeed Ullah shared this
+                        - generic [ref=e429]:
+                          - text: After 3 weeks of building, my portfolio is finally live.
+                          - link [ref=e430] [cursor=pointer]:
+                            - /url: https://lnkd.in/dJqqaX8U?trk=public_profile__posts-text
+                            - text: https://lnkd.in/dJqqaX8U
+                          - text: "Not just another template — every line written from scratch. Here's what went into it: Tech Stack: - React + TypeScript (Frontend) - Node.js + Express (Backend) - Deployed on Vercel + Railway Features I built: - Custom dark/light theme system - Animated hero section with typewriter effect - Projects showcase with live demos - Interactive chatbot assistant - Contact form with real email delivery (Gma - Fully responsive across all devices 3 weeks. Late nights. A lot of debugging. But I learned more building this than I did reading about it. --- Want a portfolio like this? I'm available to build one for you — fully ctures. Not a drag-and-drop template. Anactual coded portfolio that stands out. DM me or reach out — let's talk about what you need."
+                          - link [ref=e431] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flinkedin&trk=public_profile__posts-text
+                            - text: "#LinkedIn"
+                          - link [ref=e432] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fopentowork&trk=public_profile__posts-text
+                            - text: "#OpenToWork"
+                          - link [ref=e433] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcareergrowth&trk=public_profile__posts-text
+                            - text: "#CareerGrowth"
+                          - link [ref=e434] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwaredeveloper&trk=public_profile__posts-text
+                            - text: "#SoftwareDeveloper"
+                          - link [ref=e435] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwebdevelopment&trk=public_profile__posts-text
+                            - text: "#WebDevelopment"
+                          - link [ref=e436] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechcareers&trk=public_profile__posts-text
+                            - text: "#TechCareers"
+                          - link [ref=e437] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fportfolio&trk=public_profile__posts-text
+                            - text: "#Portfolio"
+                          - link [ref=e438] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpersonalbrand&trk=public_profile__posts-text
+                            - text: "#PersonalBrand"
+                          - link [ref=e439] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fportfoliolaunch&trk=public_profile__posts-text
+                            - text: "#PortfolioLaunch"
+                          - link [ref=e440] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsoftwareengineer&trk=public_profile__posts-text
+                            - text: "#SoftwareEngineer"
+                          - link [ref=e441] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ffullstackdeveloper&trk=public_profile__posts-text
+                            - text: "#FullStackDeveloper"
+                          - link [ref=e442] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freactjs&trk=public_profile__posts-text
+                            - text: "#ReactJS"
+                          - link [ref=e443] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwebdeveloper&trk=public_profile__posts-text
+                            - text: "#WebDeveloper"
+                          - link [ref=e444] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Ftechcommunity&trk=public_profile__posts-text
+                            - text: "#TechCommunity"
+                          - link [ref=e445] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fpersonalbranding&trk=public_profile__posts-text
+                            - text: "#PersonalBranding"
+                          - link [ref=e446] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fbuildinpublic&trk=public_profile__posts-text
+                            - text: "#BuildInPublic"
+                          - link [ref=e447] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/posts/saeedullah14319_linkedin-opentowork-careergrowth-activity-7477106112824197120-HVs1
+                            - text: ...more
+                        - link [ref=e449] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saeedullah14319_linkedin-opentowork-careergrowth-activity-7477106112824197120-HVs1
+                          - generic [ref=e450]: public_profile__posts
+                      - generic [ref=e456]:
+                        - link [ref=e458] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                        - button [ref=e462] [cursor=pointer]
+                - button [ref=e1114] [cursor=pointer]
+            - text: · · · ·
+          - link [ref=e1115] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Frecent-activity%2F&trk=public_profile
+            - text: See all activities
+      - generic [ref=e466]:
+        - heading [level=2] [ref=e1116]: Experience & Education
+        - generic [ref=e469]:
+          - list [ref=e470]:
+            - listitem [ref=e471]:
+              - generic [ref=e473]:
+                - heading [level=3] [ref=e1117]: IREG - IT
+                - heading [level=4] [ref=e475]:
+                  - paragraph [aria-hidden] [ref=e476]: "**** ***** *********"
+          - list [aria-hidden] [ref=e478]:
+            - listitem [ref=e479]:
+              - generic [ref=e481]:
+                - heading [level=3] [ref=e482]: "***** ****** *******"
+                - heading [level=4] [ref=e483]:
+                  - paragraph [ref=e484]: "******** ** ******** *******"
+            - listitem [ref=e485]:
+              - generic [ref=e487]:
+                - heading [level=3] [ref=e488]: "****** **********"
+                - heading [level=4] [ref=e489]:
+                  - paragraph [ref=e490]: "********** **********"
+            - listitem [ref=e491]:
+              - generic [ref=e493]:
+                - heading [level=3] [ref=e494]: "********** ** ********"
+                - heading [level=4] [ref=e495]:
+                  - paragraph [ref=e496]: "********** ****** ******** ******* 3.6 CGPA"
+                - paragraph [ref=e498]:
+                  - generic [ref=e499]:
+                    - time [ref=e500]: "2019"
+                    - text: "-"
+                    - time [ref=e501]: "2023"
+            - listitem [ref=e502]:
+              - generic [ref=e504]:
+                - heading [level=3] [ref=e505]: "********** ** ********"
+                - heading [level=4] [ref=e506]:
+                  - paragraph [ref=e507]: "******** ** ******* ************* *******"
+          - generic [ref=e508]:
+            - heading [level=2] [ref=e1118]: View Saeed’s full experience
+            - heading [level=3] [ref=e1119]: See their title, tenure and more.
+            - generic [ref=e511]:
+              - button [ref=e1120] [cursor=pointer]:
+                - generic [ref=e514]: Sign in
+              - paragraph [ref=e516]: or
+              - generic [ref=e517]:
+                - paragraph [ref=e518]:
+                  - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+                  - link [ref=e1121] [cursor=pointer]:
+                    - /url: /legal/user-agreement?trk=public_profile_auth-button_user-agreement
+                    - text: User Agreement
+                  - text: ","
+                  - link [ref=e1122] [cursor=pointer]:
+                    - /url: /legal/privacy-policy?trk=public_profile_auth-button_privacy-policy
+                    - text: Privacy Policy
+                  - text: ", and"
+                  - link [ref=e1123] [cursor=pointer]:
+                    - /url: /legal/cookie-policy?trk=public_profile_auth-button_cookie-policy
+                    - text: Cookie Policy
+                  - text: .
+                - button [ref=e1124]:
+                  - iframe [ref=e950]:
+                    - button "Continue with Google. Opens in new tab" [ref=f12e3] [cursor=pointer]:
+                      - generic [ref=f12e5]: Continue with Google
+      - generic [ref=e522]:
+        - heading [level=2] [ref=e1125]: Licenses & Certifications
+        - generic [ref=e524]:
+          - list [ref=e525]:
+            - listitem [ref=e526]:
+              - link [ref=e1126] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e529]:
+                - heading [level=3] [ref=e1128]:
+                  - link [ref=e1129] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/DQVEYQ88G7RL?trk=public_profile_certification-title
+                    - text: Build a Two Screen Flutter Application
+                - heading [level=4] [ref=e1130]:
+                  - link [ref=e1131] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Google
+                - generic [ref=e534]:
+                  - generic [ref=e536]:
+                    - text: Issued
+                    - time [ref=e537]: Aug 2023
+                  - link [ref=e1132] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/DQVEYQ88G7RL?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e540]:
+              - link [ref=e1133] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e543]:
+                - heading [level=3] [ref=e1135]:
+                  - link [ref=e1136] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/9ANN9T4YMCC2?trk=public_profile_certification-title
+                    - text: Course Google Foundations of Project Management
+                - heading [level=4] [ref=e1137]:
+                  - link [ref=e1138] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Google
+                - generic [ref=e548]:
+                  - generic [ref=e550]:
+                    - text: Issued
+                    - time [ref=e551]: Aug 2023
+                  - link [ref=e1139] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/9ANN9T4YMCC2?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e554]:
+              - link [ref=e1140] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e557]:
+                - heading [level=3] [ref=e1142]:
+                  - link [ref=e1143] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/UA3YY7WDZ3JU?trk=public_profile_certification-title
+                    - text: Dart Functions Framework
+                - heading [level=4] [ref=e1144]:
+                  - link [ref=e1145] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Google
+                - generic [ref=e562]:
+                  - generic [ref=e564]:
+                    - text: Issued
+                    - time [ref=e565]: Aug 2023
+                  - link [ref=e1146] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/UA3YY7WDZ3JU?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e568]:
+              - link [ref=e1147] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e571]:
+                - heading [level=3] [ref=e1149]:
+                  - link [ref=e1150] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/ZHKX2MGHEURD?trk=public_profile_certification-title
+                    - text: Getting started with Flutter Development
+                - heading [level=4] [ref=e1151]:
+                  - link [ref=e1152] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Google
+                - generic [ref=e576]:
+                  - generic [ref=e578]:
+                    - text: Issued
+                    - time [ref=e579]: Aug 2023
+                  - link [ref=e1153] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/ZHKX2MGHEURD?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e582]:
+              - link [ref=e1154] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e585]:
+                - heading [level=3] [ref=e1156]:
+                  - link [ref=e1157] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/BCG3JFVM3296?trk=public_profile_certification-title
+                    - text: HTML and CSS in depth
+                - heading [level=4] [ref=e1158]:
+                  - link [ref=e1159] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Meta
+                - generic [ref=e590]:
+                  - generic [ref=e592]:
+                    - text: Issued
+                    - time [ref=e593]: Aug 2023
+                  - link [ref=e1160] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/BCG3JFVM3296?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e596]:
+              - link [ref=e1161] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e599]:
+                - heading [level=3] [ref=e1163]:
+                  - link [ref=e1164] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/ALABYLN5VWS6?trk=public_profile_certification-title
+                    - text: Introduction to Android Mobile Application Development
+                - heading [level=4] [ref=e1165]:
+                  - link [ref=e1166] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Meta
+                - generic [ref=e604]:
+                  - generic [ref=e606]:
+                    - text: Issued
+                    - time [ref=e607]: Aug 2023
+                  - link [ref=e1167] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/ALABYLN5VWS6?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e610]:
+              - link [ref=e1168] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e613]:
+                - heading [level=3] [ref=e1170]:
+                  - link [ref=e1171] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/FPM6CSCG9TNN?trk=public_profile_certification-title
+                    - text: Introduction to Mobile Development
+                - heading [level=4] [ref=e1172]:
+                  - link [ref=e1173] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Meta
+                - generic [ref=e618]:
+                  - generic [ref=e620]:
+                    - text: Issued
+                    - time [ref=e621]: Aug 2023
+                  - link [ref=e1174] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/FPM6CSCG9TNN?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e624]:
+              - link [ref=e1175] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/ibm?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e627]:
+                - heading [level=3] [ref=e1177]:
+                  - link [ref=e1178] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/XYGU32GSM2MC?trk=public_profile_certification-title
+                    - text: Introduction to Web Development with HTML, CSS, JavaScript
+                - heading [level=4] [ref=e1179]:
+                  - link [ref=e1180] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ibm?trk=public_profile_profile-section-card_subtitle-click
+                    - text: IBM
+                - generic [ref=e632]:
+                  - generic [ref=e634]:
+                    - text: Issued
+                    - time [ref=e635]: Aug 2023
+                  - link [ref=e1181] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/XYGU32GSM2MC?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e638]:
+              - link [ref=e1182] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e641]:
+                - heading [level=3] [ref=e1184]:
+                  - link [ref=e1185] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/49D3QH934KRK?trk=public_profile_certification-title
+                    - text: Programming with JavaScript
+                - heading [level=4] [ref=e1186]:
+                  - link [ref=e1187] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Meta
+                - generic [ref=e646]:
+                  - generic [ref=e648]:
+                    - text: Issued
+                    - time [ref=e649]: Aug 2023
+                  - link [ref=e1188] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/49D3QH934KRK?trk=public_profile_see-credential
+                    - text: See credential
+            - listitem [ref=e652]:
+              - link [ref=e1189] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_image-click
+              - generic [ref=e655]:
+                - heading [level=3] [ref=e1191]:
+                  - link [ref=e1192] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/DT85BTA43F42?trk=public_profile_certification-title
+                    - text: Introduction to Front-End Development
+                - heading [level=4] [ref=e1193]:
+                  - link [ref=e1194] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/meta?trk=public_profile_profile-section-card_subtitle-click
+                    - text: Meta
+                - generic [ref=e660]:
+                  - generic [ref=e662]:
+                    - text: Issued
+                    - time [ref=e663]: Aug 2019
+                  - link [ref=e1195] [cursor=pointer]:
+                    - /url: https://coursera.org/verify/DT85BTA43F42?trk=public_profile_see-credential
+                    - text: See credential
+          - link [ref=e1196] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fpk%2Elinkedin%2Ecom%2Fin%2Fsaeedullah14319%2Fdetails%2Fcertifications&trk=public_profile_see-all-certifications
+            - text: Join now to see all certifications
+      - generic [ref=e667]:
+        - heading [level=2] [ref=e1197]: Projects
+        - list [ref=e670]:
+          - listitem [ref=e671]:
+            - generic [ref=e672]:
+              - heading [level=3] [ref=e1198]: "Flutter Dart Registration UI: Login and Sign Up Page"
+              - heading [level=4] [ref=e1199]:
+                - generic [ref=e675]:
+                  - time [ref=e676]: Nov 2023
+                  - text: "-"
+                  - time [ref=e677]: Dec 2023
+              - paragraph [ref=e680]:
+                - text: Welcome to our stunning Flutter Dart login page, where form meets functionality in a seamless blend of beautiful UI design and intuitive features. Our login page has been meticulously crafted to provide users with a delightful and secure experience, ensuring a smooth journey from sign-in to password management. **1. Elegant UI Design:** Immerse yourself in a visually appealing interface that combines modern aesthetics with user-friendly elements. The use of vibrant colors, clean…
+                - button [ref=e1200] [cursor=pointer]: Show more
+          - listitem [ref=e683]:
+            - generic [ref=e684]:
+              - heading [level=3] [ref=e1201]: SpeakLE- A English Learning Application
+              - heading [level=4] [ref=e1202]:
+                - generic [ref=e687]:
+                  - time [ref=e688]: Jun 2023
+                  - text: "-"
+                  - time [ref=e689]: Dec 2023
+              - paragraph [ref=e692]: SpeakLE is an innovative English learning mobile application designed to provide users with a comprehensive language-learning experience, SpeakLE offers features such as reading lessons, writing practice, listening exercises, speaking practice, chatbot interaction, and translation capabilities.
+      - generic [ref=e693]:
+        - heading [level=2] [ref=e1203]: Organizations
+        - list [ref=e696]:
+          - listitem [ref=e697]:
+            - generic [ref=e698]:
+              - heading [level=3] [ref=e1204]: Inno Tech Student Club
+              - heading [level=4] [ref=e1205]: Founder and CEO
+              - generic [ref=e702]:
+                - time [ref=e703]: Jun 2023
+                - text: "- Present"
+          - listitem [ref=e704]:
+            - generic [ref=e705]:
+              - heading [level=3] [ref=e1206]: Inno Tech Student Club
+              - heading [level=4] [ref=e1207]: CEO & Founder
+      - generic [ref=e710]:
+        - heading [level=2] [ref=e1208]: View Saeed’s full profile
+        - list [ref=e712]:
+          - listitem [ref=e713]:
+            - generic [ref=e716]: See who you know in common
+          - listitem [ref=e717]:
+            - generic [ref=e720]: Get introduced
+          - listitem [ref=e721]:
+            - generic [ref=e724]: Contact Saeed directly
+        - link [ref=e1209] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=saeedullah14319&trk=public_profile_bottom-cta-banner
+          - text: Join to view full profile
+    - generic [ref=e726]:
+      - generic [ref=e727]:
+        - heading [level=2] [ref=e1210]: Explore more posts
+        - list [ref=e730]:
+          - listitem [ref=e731]:
+            - generic [ref=e732]:
+              - link [ref=e1211] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/devsloop?trk=public_profile_relatedPosts_face-pile-cta
+                - generic [ref=e736]:
+                  - paragraph [ref=e737]: Devsloop Technologies
+                  - paragraph [ref=e738]: 9K followers
+              - link [ref=e1212] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/devsloop_techtalk-session-specdrivendevelopement-activity-7384926393031127040-DtDi?trk=public_profile_relatedPosts
+                - generic [ref=e740]:
+                  - paragraph [ref=e741]: "Last week at Devsloop, we had an insightful TechTalk session led by our senior team members Ahsan Ihsan & Muhammad Waqas The discussion revolved around 𝐒𝐩𝐞𝐜 𝐃𝐫𝐢𝐯𝐞𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 with GitHub’s SpecKit and 𝐇𝐨𝐰 𝐢𝐭 𝐜𝐚𝐧: -> Improve our overall workflow -> Clear documentation and a single source of truth -> Make analysis and bug resolution easier and faster It turned out to be an engaging and knowledge-packed discussion, offering valuable insights on bringing more clarity, efficiency, and collaboration to our projects. 𝐖𝐡𝐚𝐭 𝐚𝐫𝐞 𝐲𝐨𝐮𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐨𝐧 𝐚𝐝𝐨𝐩𝐭𝐢𝐧𝐠 𝐚 𝐬𝐩𝐞𝐜-𝐝𝐫𝐢𝐯𝐞𝐧 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭? We’d love to hear, write them in the comments below! 👇 #TechTalk #Session #SpecDrivenDevelopement #GitHub #SpecKit #Devsloop"
+                  - generic [aria-hidden] [ref=e745]: "34"
+      - generic [ref=e750]:
+        - heading [level=2] [ref=e1214]: Explore collaborative articles
+        - paragraph [ref=e753]: We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+        - link [ref=e1215] [cursor=pointer]:
+          - /url: https://www.linkedin.com/pulse/topics/home/
+          - text: Explore More
+      - generic [ref=e755]:
+        - heading [level=2] [ref=e1216]:
+          - text: Others named
+          - strong [ref=e757]: Saeed Ullah
+          - text: in
+          - strong [ref=e758]: Pakistan
+        - generic [ref=e759]:
+          - list [ref=e760]:
+            - listitem [ref=e761]:
+              - link [ref=e1217] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/in/saeed-ullah-b978887?trk=public_profile_samename-profile
+                - generic [ref=e764]:
+                  - heading [level=3] [ref=e1218]: Saeed Ullah
+                  - generic [ref=e766]: Pakistan
+            - listitem [ref=e767]:
+              - link [ref=e1219] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/in/saeedullah2?trk=public_profile_samename-profile
+                - generic [ref=e770]:
+                  - heading [level=3] [ref=e1220]: Saeed Ullah
+                  - generic [ref=e772]: Lahore District
+            - listitem [ref=e773]:
+              - link [ref=e1221] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/in/saeed-ullah?trk=public_profile_samename-profile
+                - generic [ref=e776]:
+                  - heading [level=3] [ref=e1222]: Saeed Ullah
+                  - generic [ref=e778]: Swat District
+            - listitem [ref=e779]:
+              - link [ref=e1223] [cursor=pointer]:
+                - /url: https://pk.linkedin.com/in/saeedse?trk=public_profile_samename-profile
+                - generic [ref=e782]:
+                  - heading [level=3] [ref=e1224]: Saeed Ullah
+                  - generic [ref=e784]: Islamabad
+          - paragraph [ref=e785]: 803 others named Saeed Ullah in Pakistan are on LinkedIn
+          - link [ref=e1225] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pub/dir/Saeed/Ullah/pk-0-Pakistan?trk=public_profile_samename-see-all
+            - text: See others named
+            - strong [ref=e787]: Saeed Ullah
+      - generic [ref=e788]:
+        - heading [level=2] [ref=e1226]: Add new skills with these courses
+        - generic [ref=e790]:
+          - list [ref=e791]:
+            - listitem [ref=e792]:
+              - link [ref=e1227] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823?trk=public_profile_recommended-course
+                - generic [ref=e794]: 1h 15m
+                - heading [level=3] [ref=e1228]: Planning and Releasing Software with Jira
+            - listitem [ref=e799]:
+              - link [ref=e1229] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/complete-guide-to-ai-and-data-science-for-sql-from-beginner-to-advanced?trk=public_profile_recommended-course
+                - generic [ref=e801]: 5h 31m
+                - heading [level=3] [ref=e1230]: "Complete Guide to AI and Data Science for SQL: From Beginner to Advanced"
+            - listitem [ref=e806]:
+              - link [ref=e1231] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/build-a-lightweight-full-stack-headless-cms-using-next-js-contentful-and-graphql?trk=public_profile_recommended-course
+                - generic [ref=e808]: 1h 2m
+                - heading [level=3] [ref=e1232]: Build a Lightweight Full-Stack Headless CMS Using Next.js, Contentful, and GraphQL
+          - link [ref=e1233] [cursor=pointer]:
+            - /url: https://pk.linkedin.com/learning/?trk=seo_pp_d_cymbii_more_m015_learning
+            - text: See all courses
+  - contentinfo [aria-hidden] [ref=e814]:
+    - list [ref=e815]:
+      - generic [ref=e816]: LinkedIn
+      - generic [ref=e818]: © 2026
+      - listitem [ref=e819]:
+        - link [ref=e1234] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=public_profile_v3_desktop_footer-about
+          - text: About
+      - listitem [ref=e821]:
+        - link [ref=e1235] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=public_profile_v3_desktop_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=e823]:
+        - link [ref=e1236] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=public_profile_v3_desktop_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=e825]:
+        - link [ref=e1237] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_profile_v3_desktop_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=e827]:
+        - link [ref=e1238] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_profile_v3_desktop_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=e829]:
+        - link [ref=e1239] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_profile_v3_desktop_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=e831]:
+        - link [ref=e1240] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=public_profile_v3_desktop_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=e833]:
+        - link [ref=e1241] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_profile_v3_desktop_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=e835]:
+        - link [ref=e1242] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_profile_v3_desktop_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=e837]:
+        - button [ref=e1243]: Language
+  - dialog [active] [ref=e1245]:
+    - button "Dismiss" [ref=e1246] [cursor=pointer]
+    - generic [ref=e1251]:
+      - heading "Welcome back" [level=2] [ref=e1252]
+      - generic [ref=e1253]:
+        - generic [ref=e1254]:
+          - generic [ref=e1255]:
+            - generic [ref=e1256]:
+              - generic [ref=e1257]: Email or phone
+              - textbox "Email or phone" [ref=e1259]
+            - alert
+          - generic [ref=e1260]:
+            - generic [ref=e1261]:
+              - generic [ref=e1262]: Password
+              - generic [ref=e1263]:
+                - textbox "Password" [ref=e1264]
+                - button "Show your LinkedIn password" [ref=e1265]: Show
+            - alert
+        - generic [ref=e1266]:
+          - link "Forgot password?" [ref=e1267] [cursor=pointer]:
+            - /url: https://pk.linkedin.com/uas/request-password-reset?trk=public_profile_sign-in-modal_forgot_password
+          - button "Sign in" [ref=e1268] [cursor=pointer]
+        - paragraph [ref=e1270]: or
+      - generic [ref=e1272]:
+        - paragraph [ref=e1273]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e1274] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=public_profile_sign-in-modal_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e1275] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=public_profile_sign-in-modal_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e1276] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=public_profile_sign-in-modal_auth-button_cookie-policy
+          - text: .
+        - button "Continue with google" [ref=e1277]:
+          - iframe [ref=e1279]:
+            - button "Continue with Google. Opens in new tab" [ref=f27e3] [cursor=pointer]:
+              - generic [ref=f27e5]: Continue with Google
+      - paragraph [ref=e1280]:
+        - text: New to LinkedIn?
+        - link "Join now" [ref=e1281] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=saeedullah14319&trk=public_profile_sign-in-modal_join-link

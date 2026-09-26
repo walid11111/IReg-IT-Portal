@@ -1,0 +1,353 @@
+- generic [ref=f89e2]:
+  - heading "0 notifications" [level=2] [ref=f89e3]
+  - generic [ref=f89e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f89e6] [cursor=pointer]
+    - generic [ref=f89e9]:
+      - banner [ref=f89e11]:
+        - generic [ref=f89e14]:
+          - button [ref=f89e15] [cursor=pointer]
+          - generic [ref=f89e17]:
+            - status [ref=f89e18]
+            - search [ref=f89e19]:
+              - textbox "Search" [ref=f89e23]
+          - generic [ref=f89e25]:
+            - navigation [ref=f89e29]:
+              - list [ref=f89e30]:
+                - listitem [ref=f89e31]:
+                  - button "Home, 1 new notification" [ref=f89e32] [cursor=pointer]:
+                    - generic [ref=f89e36]: Home
+                - listitem [ref=f89e38]:
+                  - link "My Network, 7 new notifications" [ref=f89e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f89e40]: "7"
+                    - generic [ref=f89e44]: My Network
+                - listitem [ref=f89e46]:
+                  - link "Jobs, 0 new notifications" [ref=f89e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f89e51]: Jobs
+                - listitem [ref=f89e53]:
+                  - link "Messaging, 0 new notifications" [ref=f89e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f89e58]: Messaging
+                - listitem [ref=f89e60]:
+                  - link "Notifications, 19 new notifications" [ref=f89e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f89e62]: "19"
+                    - generic [ref=f89e66]: Notifications
+                - listitem [ref=f89e68]:
+                  - button "Me" [ref=f89e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f89e71]
+            - generic [ref=f89e76]:
+              - navigation [ref=f89e77]:
+                - list [ref=f89e78]:
+                  - listitem [ref=f89e79]:
+                    - button "For Business" [ref=f89e80] [cursor=pointer]
+              - button [ref=f89e88] [cursor=pointer]:
+                - paragraph [ref=f89e94]: Try for Rs 0
+      - generic [ref=f89e96]:
+        - toolbar [aria-hidden] [ref=f89e97]:
+          - generic [ref=f89e101]:
+            - link [ref=f89e102] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/niaz-khan-softdev/
+              - generic [ref=f89e103]:
+                - figure [aria-hidden] [ref=f89e104]
+                - generic [ref=f89e105]:
+                  - paragraph [ref=f89e106]: Niaz Khan
+                  - paragraph [ref=f89e108]: Backend Engineer | AI & LLM Applications | APIs, Automation & Integrations | Python | Django | FastAPI | PostgreSQL
+            - generic [ref=f89e109]:
+              - button [ref=f89e111] [cursor=pointer]:
+                - generic [ref=f89e112]: More
+              - link [ref=f89e115] [cursor=pointer]:
+                - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E&recipient=ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                - generic [ref=f89e116]: Message
+        - main [ref=f89e119]:
+          - generic [ref=f89e121]:
+            - region "Primary content" [ref=f89e122]:
+              - generic [ref=f89e129]:
+                - generic [ref=f89e130]:
+                  - button [ref=f89e133] [cursor=pointer]:
+                    - figure [ref=f89e134]:
+                      - img "Cover photo" [ref=f89e135]
+                  - link [ref=f89e136] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - generic "Profile photo" [ref=f89e137]:
+                      - figure [aria-hidden] [ref=f89e139]
+                  - link "Manage notifications about Niaz Khan" [ref=f89e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                - generic [ref=f89e144]:
+                  - generic [ref=f89e145]:
+                    - generic [ref=f89e147]:
+                      - generic [ref=f89e148]:
+                        - heading "Niaz Khan" [level=2] [ref=f89e151]
+                        - paragraph [ref=f89e152]: · 1st
+                      - paragraph [ref=f89e153]: Backend Engineer | AI & LLM Applications | APIs, Automation & Integrations | Python | Django | FastAPI | PostgreSQL
+                      - generic [ref=f89e154]:
+                        - paragraph [ref=f89e155]: Lahore, Punjab, Pakistan
+                        - paragraph [ref=f89e156]: ·
+                        - paragraph [ref=f89e157]:
+                          - link "Contact info" [ref=f89e158] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/niaz-khan-softdev/overlay/contact-info/
+                    - generic [ref=f89e160]:
+                      - button [ref=f89e161] [cursor=pointer]:
+                        - generic [ref=f89e162]:
+                          - figure [aria-hidden] [ref=f89e163]
+                          - paragraph [ref=f89e167]: IREG - IT
+                      - button [ref=f89e168] [cursor=pointer]:
+                        - generic [ref=f89e169]:
+                          - figure [aria-hidden] [ref=f89e170]
+                          - paragraph [ref=f89e174]: University of Science and Technology, Bannu
+                  - link [ref=f89e176] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&connectionOf=["ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E"]&network=["F","S"]
+                    - paragraph [ref=f89e177]: 500+ connections
+                  - link:
+                    - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E%22%5D
+                  - generic [ref=f89e178]:
+                    - link [ref=f89e179] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E%22%5D
+                      - figure [aria-hidden] [ref=f89e180]
+                      - figure [aria-hidden] [ref=f89e181]
+                    - generic [ref=f89e182]:
+                      - link:
+                        - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E%22%5D
+                      - paragraph [ref=f89e183]:
+                        - link:
+                          - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E%22%5D
+                        - link "Open http://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E%22%5D" [ref=f89e184] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E%22%5D
+                          - strong [ref=f89e185]: Zain
+                          - text: ","
+                          - strong [ref=f89e186]: Momin Khan
+                          - text: and 62 other mutual connections
+                  - generic [ref=f89e190]:
+                    - link "Message" [ref=f89e192] [cursor=pointer]:
+                      - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E&recipient=ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                    - button "More" [ref=f89e197] [cursor=pointer]
+                - list [ref=f89e204]:
+                  - listitem [ref=f89e205]:
+                    - link [ref=f89e208] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/niaz-khan-softdev/opportunities/volunteering/details/?profileId=ACoAAFrGpHMBDR3a8RngJeE_TLmA3deIH0r3a4E
+                      - generic [ref=f89e209]:
+                        - paragraph [ref=f89e211]:
+                          - strong [ref=f89e213]: Open to volunteer for these causes
+                        - paragraph [ref=f89e215]: Clean Water and Sanitation, Arts and Culture, Community Improvement, Disaster and Humanitarian Relief, Education, Environmental Sustainability, Food, Agriculture, and Nutrition, Health - General and Rehabilitative, Human Rights, Hunger and Food Security, International, Foreign Affairs, and National Security, Veteran Support, Science and Technology
+                        - paragraph [ref=f89e217]: Show details
+            - complementary "Aside" [ref=f89e336]:
+              - generic [ref=f89e343]:
+                - heading "Explore Premium profiles" [level=2] [ref=f89e345]
+                - generic [ref=f89e347]:
+                  - generic [ref=f89e349]:
+                    - generic [ref=f89e351]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/sarooshkhan/
+                      - generic [ref=f89e352]:
+                        - link [ref=f89e353] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/sarooshkhan/
+                          - figure [aria-hidden] [ref=f89e354]
+                        - generic [ref=f89e355]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/sarooshkhan/
+                          - generic [ref=f89e356]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/sarooshkhan/
+                            - generic [ref=f89e357]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/sarooshkhan/
+                              - paragraph [ref=f89e358]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/sarooshkhan/
+                                - link [ref=f89e359] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/sarooshkhan/
+                                  - text: Saroosh Khan
+                                  - img "Premium" [ref=f89e360]
+                            - paragraph [ref=f89e362]: · 2nd
+                          - paragraph [ref=f89e364]: AI Engineer | Generative AI, Computer Vision, NLP | Deploying End‑to‑End AI Solutions from Prototype to Production
+                    - button "Invite Saroosh Khan to connect" [ref=f89e370] [cursor=pointer]:
+                      - generic [ref=f89e371]: Connect
+                  - generic [ref=f89e376]:
+                    - generic [ref=f89e378]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                      - generic [ref=f89e379]:
+                        - link [ref=f89e380] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                          - figure [ref=f89e381]
+                        - generic [ref=f89e382]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                          - generic [ref=f89e383]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                            - generic [ref=f89e384]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                              - paragraph [ref=f89e385]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                                - link [ref=f89e386] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                                  - text: Syed Sarim
+                                  - img "Premium" [ref=f89e387]
+                            - paragraph [ref=f89e389]: · 2nd
+                          - paragraph [ref=f89e391]: AI Automation Specialist | I Architect Agentic AI Systems That Reduce Cost, Eliminate Bottlenecks & Scale Business Operations | AI Solutions · LLM Integration · Workflow Automation
+                    - button "Invite Syed Sarim to connect" [ref=f89e397] [cursor=pointer]:
+                      - generic [ref=f89e398]: Connect
+                  - generic [ref=f89e403]:
+                    - generic [ref=f89e405]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/syedsheraz/
+                      - generic [ref=f89e406]:
+                        - link [ref=f89e407] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/syedsheraz/
+                          - figure [aria-hidden] [ref=f89e408]
+                        - generic [ref=f89e409]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/syedsheraz/
+                          - generic [ref=f89e410]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/syedsheraz/
+                            - generic [ref=f89e411]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/syedsheraz/
+                              - paragraph [ref=f89e412]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/syedsheraz/
+                                - link [ref=f89e413] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/syedsheraz/
+                                  - text: Syed Sheraz Hussain
+                                  - img "Premium" [ref=f89e414]
+                            - paragraph [ref=f89e416]: · 2nd
+                          - paragraph [ref=f89e418]: AI Engineer | I Build Production AI Agents & RAG Systems That Save Companies 20+ Hours/Week | LangChain · LangGraph · PyTorch · AWS | Available Remote - EU/US/Canada
+                    - button "Invite Syed Sheraz Hussain to connect" [ref=f89e424] [cursor=pointer]:
+                      - generic [ref=f89e425]: Connect
+                  - generic [ref=f89e430]:
+                    - generic [ref=f89e432]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/talhaw748/
+                      - generic [ref=f89e433]:
+                        - link [ref=f89e434] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/talhaw748/
+                          - figure [aria-hidden] [ref=f89e435]
+                        - generic [ref=f89e436]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/talhaw748/
+                          - generic [ref=f89e437]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/talhaw748/
+                            - generic [ref=f89e438]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/talhaw748/
+                              - paragraph [ref=f89e439]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/talhaw748/
+                                - link [ref=f89e440] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/talhaw748/
+                                  - text: Talha Waseem
+                                  - img "Premium" [ref=f89e441]
+                            - paragraph [ref=f89e443]: · 2nd
+                          - paragraph [ref=f89e445]: Agentic Al | Generative Al | NLP | Deep Learning | Machine Learning
+                    - button "Invite Talha Waseem to connect" [ref=f89e451] [cursor=pointer]:
+                      - generic [ref=f89e452]: Connect
+            - generic "Footer" [ref=f89e456]:
+              - generic [ref=f89e459]:
+                - generic [ref=f89e460]:
+                  - navigation [ref=f89e461]:
+                    - link [ref=f89e462] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=f89e463]: About
+                    - link [ref=f89e464] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=f89e465]: Accessibility
+                    - link [ref=f89e467] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/talent/post-a-job/?trk=footer_jobs_home&src=li-footer
+                      - paragraph [ref=f89e468]: Talent Solutions
+                    - link [ref=f89e469] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=f89e470]: Community Guidelines
+                    - link [ref=f89e471] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=f89e472]: Careers
+                    - link [ref=f89e473] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=f89e474]: Marketing Solutions
+                    - button [ref=f89e475] [cursor=pointer]:
+                      - paragraph [ref=f89e477]: Privacy & Terms
+                    - link [ref=f89e479] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=f89e480]: Ad Choices
+                    - link [ref=f89e481] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=f89e482]: Advertising
+                    - link [ref=f89e483] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=f89e484]: Sales Solutions
+                    - link [ref=f89e485] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=f89e486]: Mobile
+                    - link [ref=f89e487] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=f89e488]: Small Business
+                    - link [ref=f89e489] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=f89e490]: Safety Center
+                  - paragraph [ref=f89e492]: LinkedIn Corporation © 2026
+                - generic [ref=f89e493]:
+                  - list [ref=f89e494]:
+                    - listitem [ref=f89e495]:
+                      - generic [ref=f89e498]:
+                        - link [ref=f89e499] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/
+                          - paragraph [ref=f89e500]: Questions?
+                        - paragraph [ref=f89e501]: Visit our Help Center.
+                    - listitem [ref=f89e502]:
+                      - generic [ref=f89e505]:
+                        - link [ref=f89e506] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/mypreferences/d/
+                          - paragraph [ref=f89e507]: Manage your account and privacy
+                        - paragraph [ref=f89e508]: Go to your Settings.
+                    - listitem [ref=f89e509]:
+                      - generic [ref=f89e512]:
+                        - link [ref=f89e513] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                          - paragraph [ref=f89e514]: Recommendation transparency
+                        - paragraph [ref=f89e515]: Learn more about Recommended Content.
+                  - generic [ref=f89e517]:
+                    - paragraph [ref=f89e519]: Select language
+                    - combobox "Select language" [ref=f89e521] [cursor=pointer]:
+                      - option "العربية (Arabic)"
+                      - option "বাংলা (Bangla)"
+                      - option "Čeština (Czech)"
+                      - option "Dansk (Danish)"
+                      - option "Deutsch (German)"
+                      - option "Ελληνικά (Greek)"
+                      - option "English (English)" [selected]
+                      - option "Español (Spanish)"
+                      - option "فارسی (Persian)"
+                      - option "Suomi (Finnish)"
+                      - option "Français (French)"
+                      - option "हिंदी (Hindi)"
+                      - option "Magyar (Hungarian)"
+                      - option "Bahasa Indonesia (Indonesian)"
+                      - option "Italiano (Italian)"
+                      - option "עברית (Hebrew)"
+                      - option "日本語 (Japanese)"
+                      - option "한국어 (Korean)"
+                      - option "मराठी (Marathi)"
+                      - option "Bahasa Malaysia (Malay)"
+                      - option "Nederlands (Dutch)"
+                      - option "Norsk (Norwegian)"
+                      - option "ਪੰਜਾਬੀ (Punjabi)"
+                      - option "Polski (Polish)"
+                      - option "Português (Portuguese)"
+                      - option "Română (Romanian)"
+                      - option "Русский (Russian)"
+                      - option "Svenska (Swedish)"
+                      - option "తెలుగు (Telugu)"
+                      - option "ภาษาไทย (Thai)"
+                      - option "Tagalog (Tagalog)"
+                      - option "Türkçe (Turkish)"
+                      - option "Українська (Ukrainian)"
+                      - option "Tiếng Việt (Vietnamese)"
+                      - option "简体中文 (Chinese (Simplified))"
+                      - option "正體中文 (Chinese (Traditional))"

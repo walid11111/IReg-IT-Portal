@@ -1,0 +1,111 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]: IREG-IT
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Home" [ref=e7] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e10]:
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: /services
+      - listitem [ref=e12]:
+        - link "Team" [ref=e13] [cursor=pointer]:
+          - /url: /team
+      - listitem [ref=e14]:
+        - link "Careers" [ref=e15] [cursor=pointer]:
+          - /url: /careers
+      - listitem [ref=e16]:
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: /contact
+    - link "Get in Touch" [ref=e18] [cursor=pointer]:
+      - /url: /contact
+  - main [ref=e49]:
+    - generic [ref=e50]: Our People
+    - heading "The Team" [level=2] [ref=e51]
+    - paragraph [ref=e52]: Engineers who ship real systems.
+    - generic [ref=e53]:
+      - button "All" [ref=e54] [cursor=pointer]
+      - button "Software Engineer" [ref=e55] [cursor=pointer]
+      - button "Frontend Engineer" [ref=e56] [cursor=pointer]
+      - button "Backend Engineer" [ref=e57] [cursor=pointer]
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e60]: MK
+        - heading "Momin Khan Afridi" [level=3] [ref=e61]
+        - generic [ref=e62]: Software Engineer
+        - paragraph [ref=e63]: "AI graduate and Software Engineer specializing in Deep Learning, Large Language Models (LLMs), and scalable event-driven backend infrastructure. Independently architected and deployed 15+ production-grade backend and automation modules for a multi-tenant enterprise SaaS platform. Technical core: Python, Django, DRF, Celery, Redis, TensorFlow, PyTorch, OpenCV, and multi-gateway payment integrations."
+        - button "Show less" [active] [ref=e64] [cursor=pointer]
+      - generic [ref=e65]:
+        - generic [ref=e66]: AY
+        - heading "Allah Yar" [level=3] [ref=e67]
+        - generic [ref=e68]: Full Stack Developer
+        - paragraph [ref=e69]: Computer Science graduate with skills and experience in MERN Stack and AI/ML development. Additional strength in policy-making, ideation, and innovation. Full Stack Developer at IREG - IT in Lahore.
+        - button "Learn more" [ref=e70] [cursor=pointer]
+      - generic [ref=e71]:
+        - generic [ref=e72]: DK
+        - heading "Dawood Khan" [level=3] [ref=e73]
+        - generic [ref=e74]: Frontend Developer
+        - paragraph [ref=e75]: CS graduate with hands-on experience across AI/ML, frontend development, and teaching. Recently served as a Section Leader at Stanford University's Code in Place 2026, teaching Python to international students. Worked on RAG and LangChain, completed an FYP on AI-based fake signature detection, and developed real-world widgets including a payment-integrated pricing widget. Solved 90+ LeetCode problems and participated in CS50x Puzzle Day (Harvard).
+        - button "Learn more" [ref=e76] [cursor=pointer]
+      - generic [ref=e77]:
+        - generic [ref=e78]: NK
+        - heading "Niaz Khan" [level=3] [ref=e79]
+        - generic [ref=e80]: Backend Engineer
+        - paragraph [ref=e81]: Backend Engineer specializing in AI & LLM applications, APIs, automation, and integrations. Working with Python, Django, FastAPI, and PostgreSQL at IREG - IT in Lahore. Computer Science student at University of Science and Technology, Bannu. Also volunteers for education and technology causes.
+        - button "Learn more" [ref=e82] [cursor=pointer]
+      - generic [ref=e83]:
+        - generic [ref=e84]: AH
+        - heading "Ali Husnain" [level=3] [ref=e85]
+        - generic [ref=e86]: Fronter Developer
+        - paragraph [ref=e87]: Bio Python developer based in Lahore, Punjab, Pakistan. Long-standing member of the IREG - IT engineering team.
+      - generic [ref=e88]:
+        - generic [ref=e89]: FU
+        - heading "Fahim Ullah" [level=3] [ref=e90]
+        - generic [ref=e91]: Software Engineer
+        - paragraph [ref=e92]: AI & Web developer building real-world applications with Python, Django, and Machine Learning. Part of the IREG - IT team in Lahore, exploring enterprise systems like IRS TIN Matching. Computer Science student at University of Science and Technology, Bannu.
+        - button "Learn more" [ref=e93] [cursor=pointer]
+      - generic [ref=e94]:
+        - generic [ref=e95]: MH
+        - heading "Muhammad Hasnain" [level=3] [ref=e96]
+        - generic [ref=e97]: Backend Engineer
+        - paragraph [ref=e98]: I build the backend systems that big brands never see, but run underneath their branded platform anyway. I'm a Backend Engineer at IREG - IT in Lahore, working on MyPowerly, a white-label multi-tenant SaaS platform covering e-signatures, IRS tax filing, payments, and WhatsApp automation. My stack is Django, DRF, Celery, Redis, and PostgreSQL, deployed through Apache and Daphne with GitHub Actions CI/CD. I graduated top of my class in Computer Science from UET Mardan (Gold Medalist, 3.8/4.0 GPA).
+        - button "Learn more" [ref=e99] [cursor=pointer]
+      - generic [ref=e100]:
+        - generic [ref=e101]: ZI
+        - heading "Zain Iqbal" [level=3] [ref=e102]
+        - generic [ref=e103]: Frontend Developer
+        - paragraph [ref=e104]: React frontend developer at IREG - IT, working with React.js, Next.js, Node.js, and MongoDB. Computer Science student at University of Science and Technology, Bannu. Based in Lahore, Punjab, Pakistan.
+        - button "Learn more" [ref=e105] [cursor=pointer]
+      - generic [ref=e106]:
+        - generic [ref=e107]: SU
+        - heading "Saeed Ullah" [level=3] [ref=e108]
+        - generic [ref=e109]: Full-Stack Engineer & IT Lead, IREG - IT
+        - paragraph [ref=e110]: Full-Stack Engineer specializing in React.js, Node.js, Express.js, and MongoDB, currently leading web development at IREG - IT. Based in Lahore, Pakistan; Computer Science graduate of University of Peshawar. Former Lecturer who enjoys building in public, leading teams, and teaching the next generation of developers.
+        - button "Learn more" [ref=e111] [cursor=pointer]
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]: IREG-IT
+        - paragraph [ref=e25]: Information Research and Expert Guide - IT
+      - generic [ref=e26]:
+        - paragraph [ref=e27]: Follow us
+        - generic [ref=e28]:
+          - link "LinkedIn" [ref=e29] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ireg-it/
+          - link "Mail" [ref=e32] [cursor=pointer]:
+            - /url: mailto:careers.ireg@gmail.com
+          - link "Facebook" [ref=e35] [cursor=pointer]:
+            - /url: https://www.facebook.com/groups/1242353146521153/?ref=share
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - paragraph [ref=e40]: For more details,
+          - paragraph [ref=e41]: support@marys-team.com
+        - generic [ref=e42]:
+          - paragraph [ref=e43]: Reach our HR Team
+          - link "careers.ireg@gmail.com" [ref=e44] [cursor=pointer]:
+            - /url: mailto:careers.ireg@gmail.com
+    - generic [ref=e45]: Nasheman e Iqbal Housing Society, Phase I, Near Wapda Town, Lahore.
+    - paragraph [ref=e47]: © 2026 IREG-IT. All rights reserved. Built with Django + React.

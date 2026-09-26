@@ -1,0 +1,20 @@
+# ── Django core ───────────────────────────────
+django==6.1.1
+djangorestframework==3.18.1
+django-cors-headers==4.9.0
+
+# ── Database ──────────────────────────────────
+psycopg2-binary==2.9.13
+
+# ── Environment variables ─────────────────────
+python-dotenv==1.0.1
+
+# ── Later phases (leave here, install now) ────
+# Phase 4 — chatbot/RAG
+# pgvector==0.3.2
+# openai==1.35.0
+# tiktoken==0.7.0
+# celery==5.4.0
+# redis==5.0.7
+# ── Images ──────────────────────────────────
+Pillow==12.3.0

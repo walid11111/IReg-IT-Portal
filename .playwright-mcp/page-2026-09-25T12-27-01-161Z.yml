@@ -1,0 +1,556 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content":
+    - /url: "#geist-skip-nav"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Vercel" [ref=e8] [cursor=pointer]:
+          - /url: /home
+        - navigation "Main navigation" [ref=e13]:
+          - generic [ref=e14]:
+            - button "Products" [ref=e15] [cursor=pointer]
+            - button "Resources" [ref=e17] [cursor=pointer]
+            - link "Enterprise" [ref=e19] [cursor=pointer]:
+              - /url: /enterprise
+            - link "Pricing" [ref=e21] [cursor=pointer]:
+              - /url: /pricing
+        - generic [ref=e25]:
+          - link "Get a Demo" [ref=e26] [cursor=pointer]:
+            - /url: /contact/sales
+          - link "Log In" [ref=e28] [cursor=pointer]:
+            - /url: /login
+          - link "Sign Up" [ref=e30] [cursor=pointer]:
+            - /url: /signup
+    - main [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e36]:
+          - heading "Vercel frees the world to ship what’s next" [level=1] [ref=e37]
+          - generic [ref=e38]:
+            - generic [ref=e39]: Vercel is agentic infrastructure for every app and agent. We’re the platform where humans and agents build software together.
+            - link "View open positions" [ref=e41] [cursor=pointer]:
+              - /url: /careers
+        - list [ref=e47]:
+          - listitem [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e50]: For coding agents
+              - generic [ref=e53]: Agents do their best work on infrastructure that fits how they work
+          - listitem [ref=e54]:
+            - generic [ref=e55]:
+              - generic [ref=e56]: To ship agents
+              - generic [ref=e59]: Shipping an agent should be as simple as shipping a site
+          - listitem [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e62]: Automated by agents
+              - generic [ref=e65]: Infrastructure should improve itself, learning from everything it runs
+        - generic [ref=e66]:
+          - heading "Backed by incredible investors" [level=2] [ref=e68]
+          - list [ref=e70]:
+            - listitem [ref=e71]:
+              - link "Accel" [ref=e72] [cursor=pointer]:
+                - /url: https://accel.com
+            - listitem [ref=e75]:
+              - link "Bedrock" [ref=e76] [cursor=pointer]:
+                - /url: https://bedrockcap.com/
+            - listitem [ref=e79]:
+              - link "Charles River Ventures" [ref=e80] [cursor=pointer]:
+                - /url: https://crv.com
+            - listitem [ref=e83]:
+              - link "Notable Capital" [ref=e84] [cursor=pointer]:
+                - /url: https://notablecap.com/
+            - listitem [ref=e87]:
+              - link "Google Ventures" [ref=e88] [cursor=pointer]:
+                - /url: https://www.gv.com/
+            - listitem [ref=e91]:
+              - link "SV Angel" [ref=e92] [cursor=pointer]:
+                - /url: https://svangel.com/
+            - listitem [ref=e95]:
+              - link "8VC" [ref=e96] [cursor=pointer]:
+                - /url: https://8vc.com/
+            - listitem [ref=e99]:
+              - link "Geodesic Capital" [ref=e100] [cursor=pointer]:
+                - /url: https://geodesiccap.com/
+            - listitem [ref=e103]:
+              - link "Greenoaks" [ref=e104] [cursor=pointer]:
+                - /url: https://greenoaks.com/
+            - listitem [ref=e107]:
+              - link "Caffeinated Capital" [ref=e108] [cursor=pointer]:
+                - /url: http://caffeinatedcapital.com
+            - listitem [ref=e111]:
+              - link "Resolute Capital Partners" [ref=e112] [cursor=pointer]:
+                - /url: https://resolutecap.com/
+            - listitem [ref=e115]:
+              - link "S28" [ref=e116] [cursor=pointer]:
+                - /url: https://s28capital.com
+            - listitem [ref=e119]:
+              - link "Salesforce" [ref=e120] [cursor=pointer]:
+                - /url: https://salesforceventures.com/
+            - listitem [ref=e123]:
+              - link "Tiger Global" [ref=e124] [cursor=pointer]:
+                - /url: https://tigerglobal.com/
+            - listitem [ref=e127]:
+              - link "True Bridge" [ref=e128] [cursor=pointer]:
+                - /url: https://truebridgecapital.com/
+            - listitem [ref=e131]:
+              - link "Wellfound" [ref=e132] [cursor=pointer]:
+                - /url: https://wellfound.com/
+        - generic [ref=e135]:
+          - heading "Individual investors" [level=2] [ref=e137]
+          - list [ref=e139]:
+            - listitem [ref=e140]:
+              - link "Nat Friedman Nat Friedman Former CEO of GitHub" [ref=e141] [cursor=pointer]:
+                - /url: https://x.com/natfriedman
+                - img "Nat Friedman" [ref=e142]:
+                  - img "Nat Friedman" [ref=e143]
+                - generic [ref=e144]:
+                  - generic [ref=e145]: Nat Friedman
+                  - generic [ref=e146]: Former CEO of GitHub
+            - listitem [ref=e147]:
+              - link "Jordan Walke Jordan Walke Creator of React" [ref=e148] [cursor=pointer]:
+                - /url: https://x.com/jordwalke
+                - img "Jordan Walke" [ref=e149]:
+                  - img "Jordan Walke" [ref=e150]
+                - generic [ref=e151]:
+                  - generic [ref=e152]: Jordan Walke
+                  - generic [ref=e153]: Creator of React
+            - listitem [ref=e154]:
+              - link "Naval Ravikant Naval Ravikant Founder of AngelList" [ref=e155] [cursor=pointer]:
+                - /url: https://x.com/naval
+                - img "Naval Ravikant" [ref=e156]:
+                  - img "Naval Ravikant" [ref=e157]
+                - generic [ref=e158]:
+                  - generic [ref=e159]: Naval Ravikant
+                  - generic [ref=e160]: Founder of AngelList
+            - listitem [ref=e161]:
+              - link "Jessie Frazelle Jessie Frazelle Founder & CPO of Oxide" [ref=e162] [cursor=pointer]:
+                - /url: https://x.com/jessfraz
+                - img "Jessie Frazelle" [ref=e163]:
+                  - img "Jessie Frazelle" [ref=e164]
+                - generic [ref=e165]:
+                  - generic [ref=e166]: Jessie Frazelle
+                  - generic [ref=e167]: Founder & CPO of Oxide
+            - listitem [ref=e168]:
+              - link "Ilya Sukhar Ilya Sukhar Former Partner at YC, Founder of Parse" [ref=e169] [cursor=pointer]:
+                - /url: https://x.com/ilyasu
+                - img "Ilya Sukhar" [ref=e170]:
+                  - img "Ilya Sukhar" [ref=e171]
+                - generic [ref=e172]:
+                  - generic [ref=e173]: Ilya Sukhar
+                  - generic [ref=e174]: Former Partner at YC, Founder of Parse
+            - listitem [ref=e175]:
+              - link "David Cramer David Cramer Founder and CEO of Sentry" [ref=e176] [cursor=pointer]:
+                - /url: https://x.com/zeeg
+                - img "David Cramer" [ref=e177]:
+                  - img "David Cramer" [ref=e178]
+                - generic [ref=e179]:
+                  - generic [ref=e180]: David Cramer
+                  - generic [ref=e181]: Founder and CEO of Sentry
+            - listitem [ref=e182]:
+              - link "Anthony Casalena Anthony Casalena CEO of Squarespace" [ref=e183] [cursor=pointer]:
+                - /url: https://x.com/acasalena
+                - img "Anthony Casalena" [ref=e184]:
+                  - img "Anthony Casalena" [ref=e185]
+                - generic [ref=e186]:
+                  - generic [ref=e187]: Anthony Casalena
+                  - generic [ref=e188]: CEO of Squarespace
+            - listitem [ref=e189]:
+              - link "Soleio Cuervo Soleio Cuervo Early design at Facebook and Dropbox" [ref=e190] [cursor=pointer]:
+                - /url: https://x.com/soleio
+                - img "Soleio Cuervo" [ref=e191]:
+                  - img "Soleio Cuervo" [ref=e192]
+                - generic [ref=e193]:
+                  - generic [ref=e194]: Soleio Cuervo
+                  - generic [ref=e195]: Early design at Facebook and Dropbox
+            - listitem [ref=e196]:
+              - link "Matias Woloski Matias Woloski Founder & CTO of Auth0" [ref=e197] [cursor=pointer]:
+                - /url: https://x.com/woloski
+                - img "Matias Woloski" [ref=e198]:
+                  - img "Matias Woloski" [ref=e199]
+                - generic [ref=e200]:
+                  - generic [ref=e201]: Matias Woloski
+                  - generic [ref=e202]: Founder & CTO of Auth0
+            - listitem [ref=e203]:
+              - link "Michael Stoppelman Michael Stoppelman Former SVP at Yelp and Google engineer" [ref=e204] [cursor=pointer]:
+                - /url: https://x.com/stopman
+                - img "Michael Stoppelman" [ref=e205]:
+                  - img "Michael Stoppelman" [ref=e206]
+                - generic [ref=e207]:
+                  - generic [ref=e208]: Michael Stoppelman
+                  - generic [ref=e209]: Former SVP at Yelp and Google engineer
+            - listitem [ref=e210]:
+              - link "Pete Hunt Pete Hunt Former Founder of Smyte and Facebook engineer" [ref=e211] [cursor=pointer]:
+                - /url: https://x.com/floydophone
+                - img "Pete Hunt" [ref=e212]:
+                  - img "Pete Hunt" [ref=e213]
+                - generic [ref=e214]:
+                  - generic [ref=e215]: Pete Hunt
+                  - generic [ref=e216]: Former Founder of Smyte and Facebook engineer
+            - listitem [ref=e217]:
+              - link "Brendan Eich Brendan Eich CEO of Brave. Co-founded Mozilla & Firefox. Created JavaScript." [ref=e218] [cursor=pointer]:
+                - /url: https://x.com/BrendanEich
+                - img "Brendan Eich" [ref=e219]:
+                  - img "Brendan Eich" [ref=e220]
+                - generic [ref=e221]:
+                  - generic [ref=e222]: Brendan Eich
+                  - generic [ref=e223]: CEO of Brave. Co-founded Mozilla & Firefox. Created JavaScript.
+            - listitem [ref=e224]:
+              - link "Sahil Lavingia Sahil Lavingia Founder & CEO of Gumroad" [ref=e225] [cursor=pointer]:
+                - /url: https://x.com/shl
+                - img "Sahil Lavingia" [ref=e226]:
+                  - img "Sahil Lavingia" [ref=e227]
+                - generic [ref=e228]:
+                  - generic [ref=e229]: Sahil Lavingia
+                  - generic [ref=e230]: Founder & CEO of Gumroad
+            - listitem [ref=e231]:
+              - link "Rasmus Anderson Rasmus Anderson Early design at Spotify and Figma. Creator of Inter." [ref=e232] [cursor=pointer]:
+                - /url: https://x.com/rsms
+                - img "Rasmus Anderson" [ref=e233]:
+                  - img "Rasmus Anderson" [ref=e234]
+                - generic [ref=e235]:
+                  - generic [ref=e236]: Rasmus Anderson
+                  - generic [ref=e237]: Early design at Spotify and Figma. Creator of Inter.
+            - listitem [ref=e238]:
+              - link "Benjamin De Cock Benjamin De Cock Early design at Stripe" [ref=e239] [cursor=pointer]:
+                - /url: https://x.com/bdc
+                - img "Benjamin De Cock" [ref=e240]:
+                  - img "Benjamin De Cock" [ref=e241]
+                - generic [ref=e242]:
+                  - generic [ref=e243]: Benjamin De Cock
+                  - generic [ref=e244]: Early design at Stripe
+            - listitem [ref=e245]:
+              - link "Alexandr Wang Alexandr Wang CEO of Scale" [ref=e246] [cursor=pointer]:
+                - /url: https://x.com/alexandr_wang
+                - img "Alexandr Wang" [ref=e247]:
+                  - img "Alexandr Wang" [ref=e248]
+                - generic [ref=e249]:
+                  - generic [ref=e250]: Alexandr Wang
+                  - generic [ref=e251]: CEO of Scale
+            - listitem [ref=e252]:
+              - link "Karri Saarinen Karri Saarinen Founder & CEO of Linear. Early design at Airbnb and Coinbase" [ref=e253] [cursor=pointer]:
+                - /url: https://x.com/karrisaarinen
+                - img "Karri Saarinen" [ref=e254]:
+                  - img "Karri Saarinen" [ref=e255]
+                - generic [ref=e256]:
+                  - generic [ref=e257]: Karri Saarinen
+                  - generic [ref=e258]: Founder & CEO of Linear. Early design at Airbnb and Coinbase
+        - generic [ref=e261]:
+          - heading "Join us and shape the future of the web" [level=2] [ref=e262]
+          - link "View open positions" [ref=e263] [cursor=pointer]:
+            - /url: /careers
+    - contentinfo [ref=e269]:
+      - navigation "Vercel Directory" [ref=e270]:
+        - generic [ref=e271]:
+          - generic [ref=e272]:
+            - heading "Agent Stack" [level=2] [ref=e273]
+            - list [ref=e274]:
+              - listitem [ref=e275]:
+                - link "AI SDK" [ref=e276] [cursor=pointer]:
+                  - /url: /ai-sdk
+              - listitem [ref=e277]:
+                - link "AI Gateway" [ref=e278] [cursor=pointer]:
+                  - /url: /ai-gateway
+              - listitem [ref=e279]:
+                - link "Sandbox" [ref=e280] [cursor=pointer]:
+                  - /url: /sandbox
+              - listitem [ref=e281]:
+                - link "Workflows" [ref=e282] [cursor=pointer]:
+                  - /url: /workflows
+              - listitem [ref=e283]:
+                - link "Connect New" [ref=e284] [cursor=pointer]:
+                  - /url: /connect
+                  - text: Connect
+                  - generic [ref=e285]: New
+              - listitem [ref=e286]:
+                - link "Passport New" [ref=e287] [cursor=pointer]:
+                  - /url: /passport
+                  - text: Passport
+                  - generic [ref=e288]: New
+              - listitem [ref=e289]:
+                - link "eve New" [ref=e290] [cursor=pointer]:
+                  - /url: /eve
+                  - text: eve
+                  - generic [ref=e291]: New
+          - generic [ref=e292]:
+            - heading "Core Platform" [level=2] [ref=e293]
+            - list [ref=e294]:
+              - listitem [ref=e295]:
+                - link "CI/CD" [ref=e296] [cursor=pointer]:
+                  - /url: /products/previews
+              - listitem [ref=e297]:
+                - link "Content Delivery" [ref=e298] [cursor=pointer]:
+                  - /url: /cdn
+              - listitem [ref=e299]:
+                - link "Fluid Compute" [ref=e300] [cursor=pointer]:
+                  - /url: /fluid
+              - listitem [ref=e301]:
+                - link "Observability" [ref=e302] [cursor=pointer]:
+                  - /url: /products/observability
+          - generic [ref=e303]:
+            - heading "Security" [level=2] [ref=e304]
+            - list [ref=e305]:
+              - listitem [ref=e306]:
+                - link "Platform Security" [ref=e307] [cursor=pointer]:
+                  - /url: /security
+              - listitem [ref=e308]:
+                - link "WAF" [ref=e309] [cursor=pointer]:
+                  - /url: /security/web-application-firewall
+              - listitem [ref=e310]:
+                - link "Bot Management" [ref=e311] [cursor=pointer]:
+                  - /url: /security/bot-management
+              - listitem [ref=e312]:
+                - link "BotID" [ref=e313] [cursor=pointer]:
+                  - /url: /botid
+          - generic [ref=e314]:
+            - heading "Tools" [level=2] [ref=e315]
+            - list [ref=e316]:
+              - listitem [ref=e317]:
+                - link "Vercel Drop New" [ref=e318] [cursor=pointer]:
+                  - /url: /drop
+                  - text: Vercel Drop
+                  - generic [ref=e319]: New
+              - listitem [ref=e320]:
+                - link "Vercel Agent" [ref=e321] [cursor=pointer]:
+                  - /url: /agent
+              - listitem [ref=e322]:
+                - link "Vercel Plugin New" [ref=e323] [cursor=pointer]:
+                  - /url: /plugin
+                  - text: Vercel Plugin
+                  - generic [ref=e324]: New
+              - listitem [ref=e325]:
+                - link "Agent Skills" [ref=e326] [cursor=pointer]:
+                  - /url: https://skills.sh
+              - listitem [ref=e327]:
+                - link "Domains" [ref=e328] [cursor=pointer]:
+                  - /url: /domains
+              - listitem [ref=e329]:
+                - link "v0" [ref=e330] [cursor=pointer]:
+                  - /url: https://v0.app
+          - generic [ref=e331]:
+            - heading "Frameworks" [level=2] [ref=e332]
+            - list [ref=e333]:
+              - listitem [ref=e334]:
+                - link "eve New" [ref=e335] [cursor=pointer]:
+                  - /url: https://eve.dev/
+                  - text: eve
+                  - generic [ref=e336]: New
+              - listitem [ref=e337]:
+                - link "Next.js" [ref=e338] [cursor=pointer]:
+                  - /url: /frameworks/nextjs
+              - listitem [ref=e339]:
+                - link "Nuxt" [ref=e340] [cursor=pointer]:
+                  - /url: /docs/frameworks/full-stack/nuxt
+              - listitem [ref=e341]:
+                - link "SvelteKit" [ref=e342] [cursor=pointer]:
+                  - /url: /docs/frameworks/full-stack/sveltekit
+              - listitem [ref=e343]:
+                - link "Nitro" [ref=e344] [cursor=pointer]:
+                  - /url: /docs/frameworks/backend/nitro
+              - listitem [ref=e345]:
+                - link "Turborepo" [ref=e346] [cursor=pointer]:
+                  - /url: /solutions/turborepo
+              - listitem [ref=e347]:
+                - link "Tanstack Start" [ref=e348] [cursor=pointer]:
+                  - /url: /docs/frameworks/full-stack/tanstack-start
+              - listitem [ref=e349]:
+                - link "FastAPI" [ref=e350] [cursor=pointer]:
+                  - /url: /docs/frameworks/backend/fastapi
+              - listitem [ref=e351]:
+                - link "All frameworks" [ref=e352] [cursor=pointer]:
+                  - /url: /docs/frameworks
+          - generic [ref=e353]:
+            - heading "SDKs" [level=2] [ref=e354]
+            - list [ref=e355]:
+              - listitem [ref=e356]:
+                - link "Vercel SDK" [ref=e357] [cursor=pointer]:
+                  - /url: /docs/rest-api/sdk
+              - listitem [ref=e358]:
+                - link "Workflow SDK New" [ref=e359] [cursor=pointer]:
+                  - /url: /workflows
+                  - text: Workflow SDK
+                  - generic [ref=e360]: New
+              - listitem [ref=e361]:
+                - link "Flags SDK" [ref=e362] [cursor=pointer]:
+                  - /url: /docs/flags/flags-sdk-reference
+              - listitem [ref=e363]:
+                - link "Chat SDK New" [ref=e364] [cursor=pointer]:
+                  - /url: /chat
+                  - text: Chat SDK
+                  - generic [ref=e365]: New
+              - listitem [ref=e366]:
+                - link "Queues SDK New" [ref=e367] [cursor=pointer]:
+                  - /url: /docs/queues/sdk
+                  - text: Queues SDK
+                  - generic [ref=e368]: New
+              - listitem [ref=e369]:
+                - link "Streamdown" [ref=e370] [cursor=pointer]:
+                  - /url: https://streamdown.ai
+          - generic [ref=e371]:
+            - heading "Build" [level=2] [ref=e372]
+            - list [ref=e373]:
+              - listitem [ref=e374]:
+                - link "AI Apps" [ref=e375] [cursor=pointer]:
+                  - /url: /solutions/ai-apps
+              - listitem [ref=e376]:
+                - link "Web Apps" [ref=e377] [cursor=pointer]:
+                  - /url: /for/web-apps
+              - listitem [ref=e378]:
+                - link "Marketing Sites" [ref=e379] [cursor=pointer]:
+                  - /url: /solutions/marketing-sites
+              - listitem [ref=e380]:
+                - link "Platforms" [ref=e381] [cursor=pointer]:
+                  - /url: /solutions/multi-tenant-saas
+              - listitem [ref=e382]:
+                - link "Commerce" [ref=e383] [cursor=pointer]:
+                  - /url: /solutions/composable-commerce
+              - listitem [ref=e384]:
+                - link "Platform Engineers" [ref=e385] [cursor=pointer]:
+                  - /url: /solutions/platform-engineering
+              - listitem [ref=e386]:
+                - link "Design Engineers" [ref=e387] [cursor=pointer]:
+                  - /url: /solutions/design-engineering
+          - generic [ref=e388]:
+            - heading "Learn" [level=2] [ref=e389]
+            - list [ref=e390]:
+              - listitem [ref=e391]:
+                - link "Docs" [ref=e392] [cursor=pointer]:
+                  - /url: /docs
+              - listitem [ref=e393]:
+                - link "Blog" [ref=e394] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e395]:
+                - link "Changelog" [ref=e396] [cursor=pointer]:
+                  - /url: /changelog
+              - listitem [ref=e397]:
+                - link "Knowledge Base" [ref=e398] [cursor=pointer]:
+                  - /url: /kb
+              - listitem [ref=e399]:
+                - link "Academy" [ref=e400] [cursor=pointer]:
+                  - /url: /academy
+              - listitem [ref=e401]:
+                - link "Articles" [ref=e402] [cursor=pointer]:
+                  - /url: /i
+              - listitem [ref=e403]:
+                - link "Community" [ref=e404] [cursor=pointer]:
+                  - /url: https://community.vercel.com
+              - listitem [ref=e405]:
+                - link "Is Agentic" [ref=e406] [cursor=pointer]:
+                  - /url: https://is-agentic.com
+          - generic [ref=e407]:
+            - heading "Explore" [level=2] [ref=e408]
+            - list [ref=e409]:
+              - listitem [ref=e410]:
+                - link "Customers" [ref=e411] [cursor=pointer]:
+                  - /url: /customers
+              - listitem [ref=e412]:
+                - link "Marketplace" [ref=e413] [cursor=pointer]:
+                  - /url: /marketplace
+              - listitem [ref=e414]:
+                - link "Templates" [ref=e415] [cursor=pointer]:
+                  - /url: /templates
+              - listitem [ref=e416]:
+                - link "Partner Finder" [ref=e417] [cursor=pointer]:
+                  - /url: /partners/solution-partners
+              - listitem [ref=e418]:
+                - link "Vercel + AWS" [ref=e419] [cursor=pointer]:
+                  - /url: /partners/aws
+          - generic [ref=e420]:
+            - heading "Company" [level=2] [ref=e421]
+            - list [ref=e422]:
+              - listitem [ref=e423]:
+                - link "About" [ref=e424] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e425]:
+                - link "Careers" [ref=e426] [cursor=pointer]:
+                  - /url: /careers
+              - listitem [ref=e427]:
+                - link "Press" [ref=e428] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=e429]:
+                - link "Events" [ref=e430] [cursor=pointer]:
+                  - /url: /events
+              - listitem [ref=e431]:
+                - link "Startups" [ref=e432] [cursor=pointer]:
+                  - /url: /startups
+              - listitem [ref=e433]:
+                - link "Shipped on Vercel" [ref=e434] [cursor=pointer]:
+                  - /url: /shipped
+              - listitem [ref=e435]:
+                - link "Open Source Program" [ref=e436] [cursor=pointer]:
+                  - /url: /open-source-program
+              - listitem [ref=e437]:
+                - link "Enterprise" [ref=e438] [cursor=pointer]:
+                  - /url: /enterprise
+              - listitem [ref=e439]:
+                - link "Pricing" [ref=e440] [cursor=pointer]:
+                  - /url: /pricing
+              - listitem [ref=e441]:
+                - link "Help" [ref=e442] [cursor=pointer]:
+                  - /url: /help
+          - generic [ref=e443]:
+            - heading "Legal & Trust" [level=2] [ref=e444]
+            - list [ref=e445]:
+              - listitem [ref=e446]:
+                - link "Privacy Policy" [ref=e447] [cursor=pointer]:
+                  - /url: /legal/privacy-policy
+              - listitem [ref=e448]:
+                - link "Terms of Service" [ref=e449] [cursor=pointer]:
+                  - /url: /legal/terms
+              - listitem [ref=e450]:
+                - link "Cookie Policy" [ref=e451] [cursor=pointer]:
+                  - /url: /legal/cookie-policy
+              - listitem [ref=e452]:
+                - link "DPA" [ref=e453] [cursor=pointer]:
+                  - /url: /legal/dpa
+              - listitem [ref=e454]:
+                - link "Acceptable Use Policy" [ref=e455] [cursor=pointer]:
+                  - /url: /legal/acceptable-use-policy
+              - listitem [ref=e456]:
+                - link "Legal (all documents)" [ref=e457] [cursor=pointer]:
+                  - /url: /legal
+              - listitem [ref=e458]:
+                - link "Trust Center" [ref=e459] [cursor=pointer]:
+                  - /url: https://security.vercel.com
+              - listitem [ref=e460]:
+                - link "Status" [ref=e461] [cursor=pointer]:
+                  - /url: https://www.vercel-status.com
+              - listitem [ref=e462]:
+                - button "Cookie Preferences"
+          - generic [ref=e463]:
+            - heading "Social" [level=2] [ref=e464]
+            - list [ref=e465]:
+              - listitem [ref=e466]:
+                - link "GitHub" [ref=e467] [cursor=pointer]:
+                  - /url: https://github.com/vercel
+              - listitem [ref=e468]:
+                - link "X" [ref=e469] [cursor=pointer]:
+                  - /url: https://x.com/vercel
+              - listitem [ref=e470]:
+                - link "LinkedIn" [ref=e471] [cursor=pointer]:
+                  - /url: https://linkedin.com/company/vercel
+              - listitem [ref=e472]:
+                - link "YouTube" [ref=e473] [cursor=pointer]:
+                  - /url: https://youtube.com/@VercelHQ
+              - listitem [ref=e474]:
+                - link "Instagram" [ref=e475] [cursor=pointer]:
+                  - /url: https://www.instagram.com/vercel/
+          - list [ref=e477]:
+            - listitem [ref=e478]:
+              - link [ref=e479] [cursor=pointer]:
+                - /url: /home
+                - img "Vercel" [ref=e480]
+      - generic [ref=e481]:
+        - link [ref=e482] [cursor=pointer]:
+          - /url: https://www.vercel-status.com
+          - paragraph [ref=e485]: Loading status…
+        - generic [ref=e486]:
+          - group "Select a display theme:" [ref=e487]:
+            - generic [ref=e489]:
+              - radio "system"
+              - generic [ref=e490] [cursor=pointer]: system
+            - generic [ref=e495]:
+              - radio "light"
+              - generic [ref=e496] [cursor=pointer]: light
+            - generic [ref=e501]:
+              - radio "dark"
+              - generic [ref=e502] [cursor=pointer]: dark
+          - button "View as AI agent" [ref=e508] [cursor=pointer]
+  - alert [ref=e516]

@@ -1,5 +1,50 @@
-
 <!-- markdownlint-disable -->
+
+
+
+#  Today work cd 
+
+Note: Also study little bit the admin side 
+
+phase 0: complete 
+phase 1: complete
+phase 2: complete  
+
+phase3: complete (if little bit change you want so it can be done using admin side okay or hardcoded change then tell to opencode only in team seaction okay)
+
+Phase 4:  Start (but more time spend on this okay our goal is this and cicd )
+
+
+
+
+
+
+# step vy step command   
+ python3 -m venv venv
+ source venv/bin/activate
+
+
+cd backend
+python manage.py makemigrations
+python manage.py migrate
+
+python manage.py runserver
+
+
+cd frontend : (phase2)
+npm run dev
+
+
+
+python manage.py createsuperuser
+Username: admin
+Email: khan@email.com
+Password: ireg-admin-2026
+
+
+http://localhost:8000/admin/      # when you search this on google it will show you admin panal enter the above username and password it will open inside things.
+
+
 
 
 # IREG-IT Portal
@@ -60,7 +105,7 @@ ireg-it-portal/
 │   │   │   ├── apps.py                # ⚠ fix name = "apps.contact"
 │   │   │   └── tests/
 │   │   │
-│   │   ├── chatbot/                   # from: startapp chatbot apps/chatbot
+│   │   ├── chatbot/                   # from: startapp chatbot apps/chatbot   # important note: 
 │   │   │   ├── models.py              # Document, Chunk, ChatSession, ChatMessage
 │   │   │   ├── serializers.py
 │   │   │   ├── views.py
@@ -123,6 +168,8 @@ ireg-it-portal/
 │   │   ├── api/
 │   │   ├── App.jsx
 │   │   └── index.jsx
+|   |   |---main.jsx
+|   |   
 │   ├── .env.example
 │   └── package.json
 │
@@ -139,11 +186,3 @@ ireg-it-portal/
 
 
 
-# step vy step command 
- phase 0:   
- python3 -m venv venv
- source venv/bin/activate
-
- next step in phase 0 push the code to githib .
-
- then next step login claude desktop on local and sign bu learneireg email for previous data then open previous conversation and and give the next phase 2 step that will give to ypu in details step by step.

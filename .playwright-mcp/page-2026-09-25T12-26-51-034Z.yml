@@ -1,0 +1,99 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation [ref=e6]:
+        - link "Stripe homepage" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - img "Stripe logo" [ref=e8]
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link [ref=e12] [cursor=pointer]:
+              - /url: /
+              - text: View full website
+              - generic [ref=e13]:
+                - text: ⁠
+                - generic [ref=e14]: ⁠
+    - main [ref=e20]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e26]:
+            - paragraph [ref=e27]: Stripe is a technology company focused on improving the conditions for economic growth and prosperity.
+            - paragraph [ref=e28]: We build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale.
+            - paragraph [ref=e29]:
+              - text: More than 5 million
+              - link "businesses" [ref=e30] [cursor=pointer]:
+                - /url: /customers
+              - text: build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.7% of global GDP.
+            - paragraph [ref=e31]: While economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches.
+            - paragraph [ref=e32]:
+              - text: Our own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make
+              - link "upgrades to our products" [ref=e33] [cursor=pointer]:
+                - /url: /roadmap
+              - text: every single day to deliver compounding gains to our customers. We maintain some of the most
+              - link "reliable APIs" [ref=e34] [cursor=pointer]:
+                - /url: https://status.stripe.com/
+              - text: on the internet. We build entirely new
+              - link "pieces" [ref=e35] [cursor=pointer]:
+                - /url: https://tempo.xyz/
+              - text: of
+              - link "financial" [ref=e36] [cursor=pointer]:
+                - /url: https://mpp.dev/
+              - link "infrastructure" [ref=e37] [cursor=pointer]:
+                - /url: https://joinopenstandard.com/
+              - text: to enable new ideas. And our significant advances in
+              - link "risk and fraud" [ref=e38] [cursor=pointer]:
+                - /url: /radar
+              - text: infrastructure over many years are making the internet economy safer and more accessible.
+            - paragraph [ref=e39]:
+              - text: We recognize that markets work best when they are embedded in hospitable cultures. In addition to building tools for businesses, we also
+              - link "publish" [ref=e40] [cursor=pointer]:
+                - /url: https://press.stripe.com/
+              - link "ideas" [ref=e41] [cursor=pointer]:
+                - /url: https://worksinprogress.co/
+              - text: that we think are conducive to economic and technological advancement, and make
+              - link "unconventional" [ref=e42] [cursor=pointer]:
+                - /url: https://frontierclimate.com/
+              - link "bets" [ref=e43] [cursor=pointer]:
+                - /url: https://www.interceptfund.com/
+              - text: that we think will have a long-term impact on growth. In the words of Deirdre McCloskey, economic growth ensues when people possess the freedom to “have a go,” and we think that free exchange and free societies go hand in hand.
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - paragraph [ref=e46]: Have a question?
+              - link [ref=e47] [cursor=pointer]:
+                - /url: /contact/sales
+                - text: Get in touch
+                - generic [ref=e48]:
+                  - text: ⁠
+                  - generic [ref=e49]: ⁠
+            - generic [ref=e55]:
+              - paragraph [ref=e56]: Building with Stripe?
+              - link [ref=e57] [cursor=pointer]:
+                - /url: https://docs.stripe.com/
+                - text: Explore our Docs
+                - generic [ref=e58]:
+                  - text: ⁠
+                  - generic [ref=e59]: ⁠
+            - generic [ref=e65]:
+              - paragraph [ref=e66]: Want to work at Stripe?
+              - link [ref=e67] [cursor=pointer]:
+                - /url: /careers
+                - text: View open roles
+                - generic [ref=e68]:
+                  - text: ⁠
+                  - generic [ref=e69]: ⁠
+        - generic [aria-hidden]:
+          - link:
+            - /url: /customers
+            - generic:
+              - paragraph: stripe.com/customers
+        - generic [aria-hidden]:
+          - link:
+            - /url: /customers
+            - generic:
+              - paragraph: stripe.com/customers
+    - contentinfo [ref=e75]:
+      - generic [ref=e78]:
+        - combobox "United States. Choose your country" [ref=e79] [cursor=pointer]:
+          - generic [ref=e82]: United States (English)
+        - paragraph [ref=e83]: © 2026 Stripe, LLC.
+  - alert [ref=e87]

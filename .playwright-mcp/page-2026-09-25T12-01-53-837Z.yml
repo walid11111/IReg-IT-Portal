@@ -1,0 +1,50 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]: IREG-IT
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Home" [ref=e7] [cursor=pointer]:
+          - /url: /
+      - listitem [ref=e8]:
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: /about
+      - listitem [ref=e10]:
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: /services
+      - listitem [ref=e12]:
+        - link "Team" [ref=e13] [cursor=pointer]:
+          - /url: /team
+      - listitem [ref=e14]:
+        - link "Careers" [ref=e15] [cursor=pointer]:
+          - /url: /careers
+      - listitem [ref=e16]:
+        - link "Contact" [ref=e17] [cursor=pointer]:
+          - /url: /contact
+    - link "Get in Touch" [ref=e18] [cursor=pointer]:
+      - /url: /contact
+  - main [ref=e19]:
+    - paragraph [ref=e20]: Loading...
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]: IREG-IT
+        - paragraph [ref=e25]: Information Research and Expert Guide - IT
+      - generic [ref=e26]:
+        - paragraph [ref=e27]: Follow us
+        - generic [ref=e28]:
+          - link "LinkedIn" [ref=e29] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ireg-it/
+          - link "Mail" [ref=e32] [cursor=pointer]:
+            - /url: mailto:careers.ireg@gmail.com
+          - link "Facebook" [ref=e35] [cursor=pointer]:
+            - /url: https://www.facebook.com/groups/1242353146521153/?ref=share
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - paragraph [ref=e40]: For more details,
+          - paragraph [ref=e41]: support@marys-team.com
+        - generic [ref=e42]:
+          - paragraph [ref=e43]: Reach our HR Team
+          - link "careers.ireg@gmail.com" [ref=e44] [cursor=pointer]:
+            - /url: mailto:careers.ireg@gmail.com
+    - generic [ref=e45]: Nasheman e Iqbal Housing Society, Phase I, Near Wapda Town, Lahore.
+    - paragraph [ref=e47]: © 2026 IREG-IT. All rights reserved. Built with Django + React.

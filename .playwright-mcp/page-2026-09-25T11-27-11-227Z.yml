@@ -1,0 +1,359 @@
+- generic [ref=f55e2]:
+  - heading "0 notifications" [level=2] [ref=f55e3]
+  - generic [ref=f55e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - button "Close jump menu" [ref=f55e6] [cursor=pointer]
+    - generic [ref=f55e9]:
+      - banner [ref=f55e11]:
+        - generic [ref=f55e14]:
+          - button [ref=f55e15] [cursor=pointer]
+          - generic [ref=f55e17]:
+            - status [ref=f55e18]
+            - search [ref=f55e19]:
+              - textbox "Search" [ref=f55e23]
+          - generic [ref=f55e25]:
+            - navigation [ref=f55e29]:
+              - list [ref=f55e30]:
+                - listitem [ref=f55e31]:
+                  - button "Home, 1 new notification" [ref=f55e32] [cursor=pointer]:
+                    - generic [ref=f55e36]: Home
+                - listitem [ref=f55e38]:
+                  - link "My Network, 7 new notifications" [ref=f55e39] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f55e40]: "7"
+                    - generic [ref=f55e44]: My Network
+                - listitem [ref=f55e46]:
+                  - link "Jobs, 0 new notifications" [ref=f55e47] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic [ref=f55e51]: Jobs
+                - listitem [ref=f55e53]:
+                  - link "Messaging, 0 new notifications" [ref=f55e54] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic [ref=f55e58]: Messaging
+                - listitem [ref=f55e60]:
+                  - link "Notifications, 19 new notifications" [ref=f55e61] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f55e62]: "19"
+                    - generic [ref=f55e66]: Notifications
+                - listitem [ref=f55e68]:
+                  - button "Me" [ref=f55e69] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f55e71]
+            - generic [ref=f55e76]:
+              - navigation [ref=f55e77]:
+                - list [ref=f55e78]:
+                  - listitem [ref=f55e79]:
+                    - button "For Business" [ref=f55e80] [cursor=pointer]
+              - button [ref=f55e88] [cursor=pointer]:
+                - paragraph [ref=f55e94]: Try for Rs 0
+      - generic [ref=f55e96]:
+        - toolbar [aria-hidden] [ref=f55e97]:
+          - generic [ref=f55e101]:
+            - link [ref=f55e102] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/fahim-ullah-a21174374/
+              - generic [ref=f55e103]:
+                - figure [aria-hidden] [ref=f55e104]
+                - generic [ref=f55e105]:
+                  - paragraph [ref=f55e106]: Fahim Ullah
+                  - paragraph [ref=f55e108]: Software Engineer | AI & Web Developer | Python, Django, Machine Learning | Building Real-World AI Applications
+            - generic [ref=f55e109]:
+              - button [ref=f55e111] [cursor=pointer]:
+                - generic [ref=f55e112]: More
+              - link [ref=f55e115] [cursor=pointer]:
+                - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY&recipient=ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                - generic [ref=f55e116]: Message
+              - link [ref=f55e122] [cursor=pointer]:
+                - /url: /preload/custom-invite/?vanityName=fahim-ullah-a21174374
+                - generic [ref=f55e123]: Connect
+        - main [ref=f55e127]:
+          - generic [ref=f55e129]:
+            - region "Primary content" [ref=f55e130]:
+              - generic [ref=f55e137]:
+                - generic [ref=f55e138]:
+                  - button [ref=f55e141] [cursor=pointer]:
+                    - figure [ref=f55e142]:
+                      - img "Cover photo" [ref=f55e143]
+                  - link [ref=f55e144] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - generic "Profile photo" [ref=f55e145]:
+                      - figure [aria-hidden] [ref=f55e147]
+                  - link "Manage notifications about Fahim Ullah" [ref=f55e149] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                - generic [ref=f55e152]:
+                  - generic [ref=f55e153]:
+                    - generic [ref=f55e155]:
+                      - generic [ref=f55e156]:
+                        - heading "Fahim Ullah" [level=2] [ref=f55e159]
+                        - paragraph [ref=f55e160]: · 2nd
+                      - paragraph [ref=f55e161]: Software Engineer | AI & Web Developer | Python, Django, Machine Learning | Building Real-World AI Applications
+                      - generic [ref=f55e162]:
+                        - paragraph [ref=f55e163]: Lahore, Punjab, Pakistan
+                        - paragraph [ref=f55e164]: ·
+                        - paragraph [ref=f55e165]:
+                          - link "Contact info" [ref=f55e166] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/fahim-ullah-a21174374/overlay/contact-info/
+                    - generic [ref=f55e168]:
+                      - button [ref=f55e169] [cursor=pointer]:
+                        - generic [ref=f55e170]:
+                          - figure [aria-hidden] [ref=f55e171]
+                          - paragraph [ref=f55e175]: IREG - IT
+                      - button [ref=f55e176] [cursor=pointer]:
+                        - generic [ref=f55e177]:
+                          - figure [aria-hidden] [ref=f55e178]
+                          - paragraph [ref=f55e182]: University of Science and Technology, Bannu
+                  - generic [ref=f55e183]:
+                    - paragraph [ref=f55e184]: "250"
+                    - paragraph [ref=f55e185]: connections
+                  - link:
+                    - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY%22%5D
+                  - generic [ref=f55e186]:
+                    - link [ref=f55e187] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY%22%5D
+                      - figure [aria-hidden] [ref=f55e188]
+                      - figure [aria-hidden] [ref=f55e189]
+                    - generic [ref=f55e190]:
+                      - link:
+                        - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY%22%5D
+                      - paragraph [ref=f55e191]:
+                        - link:
+                          - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY%22%5D
+                        - link "Open http://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY%22%5D" [ref=f55e192] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/search/results/people/?origin=MEMBER_PROFILE_CANNED_SEARCH&network=%5B%22F%22%5D&connectionOf=%5B%22ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY%22%5D
+                          - strong [ref=f55e193]: Niaz
+                          - text: ","
+                          - strong [ref=f55e194]: Zain
+                          - text: and 33 other mutual connections
+                  - generic [ref=f55e198]:
+                    - link "Invite Fahim Ullah to connect" [ref=f55e202] [cursor=pointer]:
+                      - /url: /preload/custom-invite/?vanityName=fahim-ullah-a21174374
+                      - generic [ref=f55e203]: Connect
+                    - link "Message" [ref=f55e208] [cursor=pointer]:
+                      - /url: /messaging/compose/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY&recipient=ACoAAFySo7kBdPUFGDDc5Gr5pnEuEhGk_CHL7eY&screenContext=NON_SELF_PROFILE_VIEW&interop=msgOverlay
+                    - button "More" [ref=f55e213] [cursor=pointer]
+                - list [ref=f55e220]:
+                  - listitem [ref=f55e221]:
+                    - link [ref=f55e223] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic [ref=f55e224]:
+                        - paragraph [ref=f55e226]:
+                          - strong [ref=f55e228]: Open to work
+                        - paragraph [ref=f55e230]: Lahore +2 more | On-site · Hybrid · Remote
+                        - paragraph [ref=f55e232]: Show details
+            - complementary "Aside" [ref=f55e351]:
+              - generic [ref=f55e358]:
+                - heading "Explore Premium profiles" [level=2] [ref=f55e360]
+                - generic [ref=f55e362]:
+                  - generic [ref=f55e364]:
+                    - generic [ref=f55e366]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                      - generic [ref=f55e367]:
+                        - link [ref=f55e368] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                          - figure [aria-hidden] [ref=f55e369]
+                        - generic [ref=f55e370]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                          - generic [ref=f55e371]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                            - generic [ref=f55e372]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                              - paragraph [ref=f55e373]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                                - link [ref=f55e374] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/haroon-aziz-b2b376278/
+                                  - text: Haroon Aziz
+                                  - img "Premium" [ref=f55e375]
+                            - paragraph [ref=f55e377]: · 2nd
+                          - paragraph [ref=f55e379]: Computer Vision Engineer | Deep learning and optimization
+                    - button "Invite Haroon Aziz to connect" [ref=f55e385] [cursor=pointer]:
+                      - generic [ref=f55e386]: Connect
+                  - generic [ref=f55e391]:
+                    - generic [ref=f55e393]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                      - generic [ref=f55e394]:
+                        - link [ref=f55e395] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                          - figure [ref=f55e396]
+                        - generic [ref=f55e397]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                          - generic [ref=f55e398]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                            - generic [ref=f55e399]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                              - paragraph [ref=f55e400]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                                - link [ref=f55e401] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/syed-sarim-033611415/
+                                  - text: Syed Sarim
+                                  - img "Premium" [ref=f55e402]
+                            - paragraph [ref=f55e404]: · 2nd
+                          - paragraph [ref=f55e406]: AI Automation Specialist | I Architect Agentic AI Systems That Reduce Cost, Eliminate Bottlenecks & Scale Business Operations | AI Solutions · LLM Integration · Workflow Automation
+                    - button "Invite Syed Sarim to connect" [ref=f55e412] [cursor=pointer]:
+                      - generic [ref=f55e413]: Connect
+                  - generic [ref=f55e418]:
+                    - generic [ref=f55e420]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/imrangill10/
+                      - generic [ref=f55e421]:
+                        - link [ref=f55e422] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/imrangill10/
+                          - figure [aria-hidden] [ref=f55e423]
+                        - generic [ref=f55e424]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/imrangill10/
+                          - generic [ref=f55e425]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/imrangill10/
+                            - generic [ref=f55e426]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/imrangill10/
+                              - paragraph [ref=f55e427]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/imrangill10/
+                                - link [ref=f55e428] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/imrangill10/
+                                  - text: Imran Gill
+                                  - img "Premium" [ref=f55e429]
+                            - paragraph [ref=f55e431]: · 2nd
+                          - paragraph [ref=f55e433]: AI Engineer MTO @MG Apparel | LLMs/ML | Python | Digital Transformation
+                    - button "Invite Imran Gill to connect" [ref=f55e439] [cursor=pointer]:
+                      - generic [ref=f55e440]: Connect
+                  - generic [ref=f55e445]:
+                    - generic [ref=f55e447]:
+                      - link:
+                        - /url: https://www.linkedin.com/in/talhaw748/
+                      - generic [ref=f55e448]:
+                        - link [ref=f55e449] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/talhaw748/
+                          - figure [aria-hidden] [ref=f55e450]
+                        - generic [ref=f55e451]:
+                          - link:
+                            - /url: https://www.linkedin.com/in/talhaw748/
+                          - generic [ref=f55e452]:
+                            - link:
+                              - /url: https://www.linkedin.com/in/talhaw748/
+                            - generic [ref=f55e453]:
+                              - link:
+                                - /url: https://www.linkedin.com/in/talhaw748/
+                              - paragraph [ref=f55e454]:
+                                - link:
+                                  - /url: https://www.linkedin.com/in/talhaw748/
+                                - link [ref=f55e455] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/talhaw748/
+                                  - text: Talha Waseem
+                                  - img "Premium" [ref=f55e456]
+                            - paragraph [ref=f55e458]: · 2nd
+                          - paragraph [ref=f55e460]: Agentic Al | Generative Al | NLP | Deep Learning | Machine Learning
+                    - button "Invite Talha Waseem to connect" [ref=f55e466] [cursor=pointer]:
+                      - generic [ref=f55e467]: Connect
+            - generic "Footer" [ref=f55e471]:
+              - generic [ref=f55e474]:
+                - generic [ref=f55e475]:
+                  - navigation [ref=f55e476]:
+                    - link [ref=f55e477] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=f55e478]: About
+                    - link [ref=f55e479] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=f55e480]: Accessibility
+                    - link [ref=f55e482] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/talent/post-a-job/?trk=footer_jobs_home&src=li-footer
+                      - paragraph [ref=f55e483]: Talent Solutions
+                    - link [ref=f55e484] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=f55e485]: Community Guidelines
+                    - link [ref=f55e486] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=f55e487]: Careers
+                    - link [ref=f55e488] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=f55e489]: Marketing Solutions
+                    - button [ref=f55e490] [cursor=pointer]:
+                      - paragraph [ref=f55e492]: Privacy & Terms
+                    - link [ref=f55e494] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=f55e495]: Ad Choices
+                    - link [ref=f55e496] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=f55e497]: Advertising
+                    - link [ref=f55e498] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=f55e499]: Sales Solutions
+                    - link [ref=f55e500] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=f55e501]: Mobile
+                    - link [ref=f55e502] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=f55e503]: Small Business
+                    - link [ref=f55e504] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=f55e505]: Safety Center
+                  - paragraph [ref=f55e507]: LinkedIn Corporation © 2026
+                - generic [ref=f55e508]:
+                  - list [ref=f55e509]:
+                    - listitem [ref=f55e510]:
+                      - generic [ref=f55e513]:
+                        - link [ref=f55e514] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/
+                          - paragraph [ref=f55e515]: Questions?
+                        - paragraph [ref=f55e516]: Visit our Help Center.
+                    - listitem [ref=f55e517]:
+                      - generic [ref=f55e520]:
+                        - link [ref=f55e521] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/mypreferences/d/
+                          - paragraph [ref=f55e522]: Manage your account and privacy
+                        - paragraph [ref=f55e523]: Go to your Settings.
+                    - listitem [ref=f55e524]:
+                      - generic [ref=f55e527]:
+                        - link [ref=f55e528] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                          - paragraph [ref=f55e529]: Recommendation transparency
+                        - paragraph [ref=f55e530]: Learn more about Recommended Content.
+                  - generic [ref=f55e532]:
+                    - paragraph [ref=f55e534]: Select language
+                    - combobox "Select language" [ref=f55e536] [cursor=pointer]:
+                      - option "العربية (Arabic)"
+                      - option "বাংলা (Bangla)"
+                      - option "Čeština (Czech)"
+                      - option "Dansk (Danish)"
+                      - option "Deutsch (German)"
+                      - option "Ελληνικά (Greek)"
+                      - option "English (English)" [selected]
+                      - option "Español (Spanish)"
+                      - option "فارسی (Persian)"
+                      - option "Suomi (Finnish)"
+                      - option "Français (French)"
+                      - option "हिंदी (Hindi)"
+                      - option "Magyar (Hungarian)"
+                      - option "Bahasa Indonesia (Indonesian)"
+                      - option "Italiano (Italian)"
+                      - option "עברית (Hebrew)"
+                      - option "日本語 (Japanese)"
+                      - option "한국어 (Korean)"
+                      - option "मराठी (Marathi)"
+                      - option "Bahasa Malaysia (Malay)"
+                      - option "Nederlands (Dutch)"
+                      - option "Norsk (Norwegian)"
+                      - option "ਪੰਜਾਬੀ (Punjabi)"
+                      - option "Polski (Polish)"
+                      - option "Português (Portuguese)"
+                      - option "Română (Romanian)"
+                      - option "Русский (Russian)"
+                      - option "Svenska (Swedish)"
+                      - option "తెలుగు (Telugu)"
+                      - option "ภาษาไทย (Thai)"
+                      - option "Tagalog (Tagalog)"
+                      - option "Türkçe (Turkish)"
+                      - option "Українська (Ukrainian)"
+                      - option "Tiếng Việt (Vietnamese)"
+                      - option "简体中文 (Chinese (Simplified))"
+                      - option "正體中文 (Chinese (Traditional))"

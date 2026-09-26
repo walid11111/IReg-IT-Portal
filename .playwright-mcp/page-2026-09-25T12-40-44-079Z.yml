@@ -1,0 +1,271 @@
+- generic [ref=f3e2]:
+  - heading "0 notifications" [level=2] [ref=f3e3]
+  - generic [ref=f3e4]:
+    - generic:
+      - generic "Skip navigation menu":
+        - generic [ref=f3e5]:
+          - button "Skip to search" [ref=f3e6] [cursor=pointer]
+          - button "Skip to main content" [ref=f3e9] [cursor=pointer]
+          - button "Skip to primary content" [ref=f3e12] [cursor=pointer]
+          - button "Skip to aside" [ref=f3e15] [cursor=pointer]
+          - button "Skip to footer" [ref=f3e18] [cursor=pointer]
+          - button "Close jump menu" [ref=f3e22] [cursor=pointer]
+    - generic [ref=f3e25]:
+      - banner [ref=f3e27]:
+        - generic [ref=f3e30]:
+          - button [ref=f3e31] [cursor=pointer]
+          - generic [ref=f3e33]:
+            - status [ref=f3e34]
+            - search [ref=f3e35]:
+              - textbox "Search" [ref=f3e39]
+          - generic [ref=f3e41]:
+            - navigation [ref=f3e45]:
+              - list [ref=f3e46]:
+                - listitem [ref=f3e47]:
+                  - button "Home, 1 new notification" [ref=f3e48] [cursor=pointer]:
+                    - generic: Home
+                - listitem [ref=f3e54]:
+                  - link "My Network, 7 new notifications" [ref=f3e55] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=f3e56]: "7"
+                    - generic: My Network
+                - listitem [ref=f3e61]:
+                  - link "Jobs, 0 new notifications" [ref=f3e62] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - generic: Jobs
+                - listitem [ref=f3e67]:
+                  - link "Messaging, 0 new notifications" [ref=f3e68] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - generic: Messaging
+                - listitem [ref=f3e73]:
+                  - link "Notifications, 21 new notifications" [ref=f3e74] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=f3e75]: "21"
+                    - generic: Notifications
+                - listitem [ref=f3e80]:
+                  - button [ref=f3e81] [cursor=pointer]:
+                    - figure [aria-hidden] [ref=f3e83]
+            - generic [ref=f3e87]:
+              - navigation [ref=f3e88]:
+                - list [ref=f3e89]:
+                  - listitem [ref=f3e90]:
+                    - button "For Business" [ref=f3e91] [cursor=pointer]
+              - button [ref=f3e98] [cursor=pointer]:
+                - paragraph [ref=f3e104]: Try for Rs 0
+      - generic [ref=f3e106]:
+        - toolbar [aria-hidden] [ref=f3e107]:
+          - generic [ref=f3e111]:
+            - link [ref=f3e112] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/walid-khan-aa691726a/
+              - generic [ref=f3e113]:
+                - figure [aria-hidden] [ref=f3e114]
+                - generic [ref=f3e115]:
+                  - paragraph [ref=f3e116]: Walid Khan
+                  - paragraph [ref=f3e118]: AI/ML Engineer | GenAI, LLMs, RAG & Agentic AI | LangGraph, MCP, Voice AI | FastAPI, Django & Backend Development | Building Production-Ready AI Systems
+            - generic [ref=f3e119]:
+              - button [ref=f3e121] [cursor=pointer]:
+                - generic [ref=f3e122]: Resources
+              - button [ref=f3e125] [cursor=pointer]:
+                - generic [ref=f3e126]: Enhance profile
+              - link [ref=f3e129] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/walid-khan-aa691726a/
+                - generic [ref=f3e130]: Add section
+              - button [ref=f3e133] [cursor=pointer]:
+                - generic [ref=f3e134]: Open to
+        - main [ref=f3e136]:
+          - generic [ref=f3e138]:
+            - region "Primary content" [ref=f3e139]:
+              - generic [ref=f3e146]:
+                - generic [ref=f3e147]:
+                  - generic [ref=f3e148]:
+                    - button [ref=f3e150] [cursor=pointer]:
+                      - figure [ref=f3e151]:
+                        - img "Cover photo" [ref=f3e152]
+                    - button "Edit background image" [ref=f3e156] [cursor=pointer]
+                  - link [ref=f3e159] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/walid-khan-aa691726a/
+                    - generic "Profile photo" [ref=f3e160]:
+                      - figure [aria-hidden] [ref=f3e162]
+                  - link "Edit profile" [ref=f3e164] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/walid-khan-aa691726a/edit/intro/
+                - generic [ref=f3e167]:
+                  - generic [ref=f3e168]:
+                    - generic [ref=f3e170]:
+                      - generic [ref=f3e171]:
+                        - heading "Walid Khan" [level=2] [ref=f3e174]
+                        - link [ref=f3e177] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/trust/verification/?isDeepLinkToCCT=true&verificationUrl=https%3A%2F%2Fwww.linkedin.com%2Fverify%2F%3FentryPoint%3Dselfview_topcard
+                          - paragraph [ref=f3e180]: Verify in 2 minutes
+                      - paragraph [ref=f3e181]: AI/ML Engineer | GenAI, LLMs, RAG & Agentic AI | LangGraph, MCP, Voice AI | FastAPI, Django & Backend Development | Building Production-Ready AI Systems
+                      - generic [ref=f3e182]:
+                        - paragraph [ref=f3e183]: Mingāora, Khyber Pakhtunkhwa, Pakistan
+                        - paragraph [ref=f3e184]: ·
+                        - paragraph [ref=f3e185]:
+                          - link "Contact info" [ref=f3e186] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/walid-khan-aa691726a/overlay/contact-info/
+                    - generic [ref=f3e188]:
+                      - button [ref=f3e189] [cursor=pointer]:
+                        - generic [ref=f3e190]:
+                          - figure [aria-hidden] [ref=f3e191]
+                          - paragraph [ref=f3e195]: IREG - IT
+                      - button [ref=f3e196] [cursor=pointer]:
+                        - generic [ref=f3e197]:
+                          - figure [aria-hidden] [ref=f3e198]
+                          - paragraph [ref=f3e202]: University of Engineering and technology Mardan
+                  - link [ref=f3e204] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/invite-connect/connections/
+                    - paragraph [ref=f3e205]: 500+ connections
+                  - generic [ref=f3e209]:
+                    - button "Open to" [ref=f3e211] [cursor=pointer]
+                    - link "Add section" [ref=f3e215] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/walid-khan-aa691726a/
+                    - button "Enhance profile" [ref=f3e219] [cursor=pointer]
+                    - button "Resources" [ref=f3e223] [cursor=pointer]
+                - generic [ref=f3e228]:
+                  - list [ref=f3e230]:
+                    - listitem [ref=f3e231]:
+                      - generic [ref=f3e232]:
+                        - link [ref=f3e233] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/walid-khan-aa691726a/
+                          - generic [ref=f3e234]:
+                            - paragraph [ref=f3e236]:
+                              - strong [ref=f3e238]: Open to work · Everyone on LinkedIn
+                            - paragraph [ref=f3e240]: Lahore +4 more | On-site · Hybrid · Remote
+                            - paragraph [ref=f3e242]: Show details
+                        - button "Edit" [ref=f3e243] [cursor=pointer]
+                    - listitem [ref=f3e246]:
+                      - generic [ref=f3e248]:
+                        - link [ref=f3e249] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/walid-khan-aa691726a/opportunities/services/education/
+                          - generic [ref=f3e250]:
+                            - paragraph [ref=f3e251]:
+                              - strong [ref=f3e252]: Showcase your services
+                              - text: as a section on your profile so your business can be easily discovered.
+                            - paragraph [ref=f3e254]: Add services
+                        - button "Close" [ref=f3e255] [cursor=pointer]
+                    - listitem [ref=f3e258]:
+                      - generic [ref=f3e260]:
+                        - link [ref=f3e261] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/walid-khan-aa691726a/opportunities/volunteering/education/?profileId=ACoAAEH80l4BGo4mg5nTZ4W2qyq31tnAMklZ7Rw
+                          - generic [ref=f3e262]:
+                            - paragraph [ref=f3e263]:
+                              - strong [ref=f3e264]: Tell non-profits
+                              - text: you are interested in getting involved with your time and skills
+                            - paragraph [ref=f3e266]: Get started
+                        - button "Close" [ref=f3e267] [cursor=pointer]
+                  - button "Next" [ref=f3e270] [cursor=pointer]
+            - complementary "Aside" [ref=f3e391]:
+              - generic [ref=f3e397]:
+                - generic [ref=f3e398]:
+                  - heading "Profile language" [level=2] [ref=f3e399]
+                  - link "Edit profile language" [ref=f3e401] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/walid-khan-aa691726a/edit/secondary-language/
+                - paragraph [ref=f3e405]: English
+                - generic [ref=f3e406]:
+                  - heading "Public profile & URL" [level=2] [ref=f3e407]
+                  - link "Edit Public profile & URL" [ref=f3e409] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile
+                - paragraph [ref=f3e413]: www.linkedin.com/in/walid-khan-aa691726a
+            - generic "Footer" [ref=f3e513]:
+              - generic [ref=f3e516]:
+                - generic [ref=f3e517]:
+                  - navigation [ref=f3e518]:
+                    - link [ref=f3e519] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=f3e520]: About
+                    - link [ref=f3e521] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=f3e522]: Accessibility
+                    - link [ref=f3e524] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/talent/post-a-job/?trk=footer_jobs_home&src=li-footer
+                      - paragraph [ref=f3e525]: Talent Solutions
+                    - link [ref=f3e526] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=f3e527]: Community Guidelines
+                    - link [ref=f3e528] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=f3e529]: Careers
+                    - link [ref=f3e530] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=f3e531]: Marketing Solutions
+                    - button [ref=f3e532] [cursor=pointer]:
+                      - paragraph [ref=f3e534]: Privacy & Terms
+                    - link [ref=f3e536] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=f3e537]: Ad Choices
+                    - link [ref=f3e538] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=f3e539]: Advertising
+                    - link [ref=f3e540] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=f3e541]: Sales Solutions
+                    - link [ref=f3e542] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=f3e543]: Mobile
+                    - link [ref=f3e544] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=f3e545]: Small Business
+                    - link [ref=f3e546] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=f3e547]: Safety Center
+                  - paragraph [ref=f3e549]: LinkedIn Corporation © 2026
+                - generic [ref=f3e550]:
+                  - list [ref=f3e551]:
+                    - listitem [ref=f3e552]:
+                      - generic [ref=f3e555]:
+                        - link [ref=f3e556] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/
+                          - paragraph [ref=f3e557]: Questions?
+                        - paragraph [ref=f3e558]: Visit our Help Center.
+                    - listitem [ref=f3e559]:
+                      - generic [ref=f3e562]:
+                        - link [ref=f3e563] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/mypreferences/d/
+                          - paragraph [ref=f3e564]: Manage your account and privacy
+                        - paragraph [ref=f3e565]: Go to your Settings.
+                    - listitem [ref=f3e566]:
+                      - generic [ref=f3e569]:
+                        - link [ref=f3e570] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                          - paragraph [ref=f3e571]: Recommendation transparency
+                        - paragraph [ref=f3e572]: Learn more about Recommended Content.
+                  - generic [ref=f3e574]:
+                    - paragraph [ref=f3e576]: Select language
+                    - combobox "Select language" [ref=f3e578] [cursor=pointer]:
+                      - option "العربية (Arabic)"
+                      - option "বাংলা (Bangla)"
+                      - option "Čeština (Czech)"
+                      - option "Dansk (Danish)"
+                      - option "Deutsch (German)"
+                      - option "Ελληνικά (Greek)"
+                      - option "English (English)" [selected]
+                      - option "Español (Spanish)"
+                      - option "فارسی (Persian)"
+                      - option "Suomi (Finnish)"
+                      - option "Français (French)"
+                      - option "हिंदी (Hindi)"
+                      - option "Magyar (Hungarian)"
+                      - option "Bahasa Indonesia (Indonesian)"
+                      - option "Italiano (Italian)"
+                      - option "עברית (Hebrew)"
+                      - option "日本語 (Japanese)"
+                      - option "한국어 (Korean)"
+                      - option "मराठी (Marathi)"
+                      - option "Bahasa Malaysia (Malay)"
+                      - option "Nederlands (Dutch)"
+                      - option "Norsk (Norwegian)"
+                      - option "ਪੰਜਾਬੀ (Punjabi)"
+                      - option "Polski (Polish)"
+                      - option "Português (Portuguese)"
+                      - option "Română (Romanian)"
+                      - option "Русский (Russian)"
+                      - option "Svenska (Swedish)"
+                      - option "తెలుగు (Telugu)"
+                      - option "ภาษาไทย (Thai)"
+                      - option "Tagalog (Tagalog)"
+                      - option "Türkçe (Turkish)"
+                      - option "Українська (Ukrainian)"
+                      - option "Tiếng Việt (Vietnamese)"
+                      - option "简体中文 (Chinese (Simplified))"
+                      - option "正體中文 (Chinese (Traditional))"
+  - iframe [ref=f3e579]

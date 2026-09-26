@@ -1,0 +1,920 @@
+- generic [ref=e2]:
+  - link "Skip to main content" [ref=e3] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "Claude" [ref=e7]
+      - generic [ref=e10]:
+        - navigation "Main" [ref=e11]:
+          - button "Product" [ref=e14] [cursor=pointer]
+          - button "Developers" [ref=e20] [cursor=pointer]
+          - button "Enterprise" [ref=e26] [cursor=pointer]
+          - button "Resources" [ref=e32] [cursor=pointer]
+          - button "Pricing" [ref=e38] [cursor=pointer]
+          - link "Login" [ref=e42] [cursor=pointer]:
+            - /url: https://claude.ai/login
+        - generic [ref=e43]:
+          - link "Contact sales" [ref=e44] [cursor=pointer]:
+            - /url: /contact-sales
+          - link "Try Claude" [ref=e45] [cursor=pointer]:
+            - /url: https://claude.ai
+    - navigation "Breadcrumb" [ref=e46]:
+      - generic [ref=e47]:
+        - list [ref=e48]:
+          - listitem [ref=e49]: Pricing
+        - button "Explore here" [ref=e53] [cursor=pointer]
+  - main [ref=e58]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - heading "Pricing" [level=1] [ref=e63]:
+          - generic [aria-hidden] [ref=e64]: Pricing
+        - tablist [ref=e67]:
+          - tab "Individual" [selected] [ref=e68] [cursor=pointer]
+          - tab "Team & Enterprise" [ref=e69] [cursor=pointer]
+          - tab "API" [ref=e70] [cursor=pointer]
+      - tabpanel "Individual" [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e83]:
+              - heading "Free" [level=3] [ref=e84]
+              - paragraph [ref=e85]: Try Claude
+            - generic [ref=e86]:
+              - paragraph [ref=e87]: $0
+              - paragraph [ref=e88]: Free for everyone
+            - link "Try Claude" [ref=e90] [cursor=pointer]:
+              - /url: https://claude.ai/login?plan=free
+            - list [ref=e93]:
+              - listitem [ref=e94]: Chat on web, desktop, and mobile
+              - listitem [ref=e97]: Search the web, create files, and run code
+              - listitem [ref=e100]: Memory across conversations
+              - listitem [ref=e103]: Connect your apps and tools
+              - listitem [ref=e106]: Create Artifacts
+          - generic [ref=e109]:
+            - generic [ref=e122]:
+              - generic [ref=e123]:
+                - heading "Pro" [level=3] [ref=e124]
+                - generic [ref=e125]: Claude Code included
+              - paragraph [ref=e126]: For everyday work
+            - generic [ref=e127]:
+              - paragraph [ref=e128]: $17
+              - paragraph [ref=e129]: Per month with annual subscription discount ($200 billed up front). $20 if billed monthly.
+            - link "Try Claude" [ref=e131] [cursor=pointer]:
+              - /url: https://claude.ai/login?plan=pro
+            - generic [ref=e133]:
+              - paragraph [ref=e134]: "Everything in Free, plus:"
+              - list [ref=e135]:
+                - listitem [ref=e136]: More usage*
+                - listitem [ref=e139]: Hand off and schedule tasks
+                - listitem [ref=e142]: Claude Design, Slides, Docs
+                - listitem [ref=e145]: Claude Science
+                - listitem [ref=e148]: Projects
+                - listitem [ref=e151]: More Claude models
+                - listitem [ref=e154]: Claude in Chrome and Microsoft 365
+          - generic [ref=e157]:
+            - generic [ref=e175]:
+              - generic [ref=e176]:
+                - heading "Max" [level=3] [ref=e177]
+                - generic [ref=e178]: Claude Code included
+              - paragraph [ref=e179]: For people who work with Claude all day
+            - generic [ref=e180]:
+              - paragraph [ref=e181]: From $100
+              - paragraph [ref=e182]: Per month
+            - link "Try Claude" [ref=e184] [cursor=pointer]:
+              - /url: https://claude.ai/login?plan=max
+            - generic [ref=e186]:
+              - paragraph [ref=e187]: "Everything in Pro, plus:"
+              - list [ref=e188]:
+                - listitem [ref=e189]: Choose 5x or 20x more usage than Pro*
+                - listitem [ref=e192]: Higher output limits for all tasks
+                - listitem [ref=e195]: Early access to advanced Claude features
+                - listitem [ref=e198]: Priority access at high traffic times
+        - paragraph [ref=e202]:
+          - link "Usage limits" [ref=e203] [cursor=pointer]:
+            - /url: https://support.anthropic.com/en/articles/9797557-usage-limit-best-practices
+          - text: apply. Prices shown don’t include applicable tax. Price and plans are subject to change at Anthropic's discretion.
+        - generic [ref=e204]:
+          - heading "Compare features across plans" [level=2] [ref=e217]:
+            - generic [aria-hidden] [ref=e218]: Compare
+            - generic [aria-hidden] [ref=e219]: features
+            - generic [aria-hidden] [ref=e220]: across
+            - generic [aria-hidden] [ref=e221]: plans
+          - generic [ref=e223]:
+            - generic [ref=e225]:
+              - generic [ref=e226]: Search
+              - textbox "Search" [ref=e230]
+            - generic [ref=e231]:
+              - generic [ref=e232]: Free
+              - link "Try Claude" [ref=e234] [cursor=pointer]:
+                - /url: https://claude.ai/
+            - generic [ref=e236]:
+              - generic [ref=e237]: Pro
+              - link "Try Claude" [ref=e239] [cursor=pointer]:
+                - /url: https://claude.ai/
+            - generic [ref=e241]:
+              - generic [ref=e242]: Max 5x
+              - link "Try Claude" [ref=e244] [cursor=pointer]:
+                - /url: https://claude.ai/
+            - generic [ref=e246]:
+              - generic [ref=e247]: Max 20x
+              - link "Try Claude" [ref=e249] [cursor=pointer]:
+                - /url: https://claude.ai/
+          - group [ref=e251]:
+            - generic "Features and capabilities" [ref=e252] [cursor=pointer]:
+              - heading "Features and capabilities" [level=3]
+            - table "Features and capabilities" [ref=e254]:
+              - rowgroup [ref=e255]:
+                - row [ref=e256]:
+                  - columnheader "Features" [ref=e257]
+                  - columnheader "Free" [ref=e258]
+                  - columnheader "Pro" [ref=e259]
+                  - columnheader "Max 5x" [ref=e260]
+                  - columnheader "Max 20x" [ref=e261]
+              - rowgroup [ref=e262]:
+                - row [ref=e263]:
+                  - rowheader [ref=e264]:
+                    - heading "@Claude" [level=4] [ref=e265]
+                  - cell "No" [ref=e266]
+                  - cell "No" [ref=e272]
+                  - cell "No" [ref=e278]
+                  - cell "No" [ref=e284]
+                - row [ref=e290]:
+                  - rowheader [ref=e291]:
+                    - heading "Claude Code" [level=4] [ref=e292]
+                  - cell "No" [ref=e293]
+                  - cell "Yes" [ref=e299]
+                  - cell "Yes" [ref=e305]
+                  - cell "Yes" [ref=e311]
+                - row [ref=e317]:
+                  - rowheader [ref=e318]:
+                    - heading "Claude Science" [level=4] [ref=e319]
+                  - cell "No" [ref=e320]
+                  - cell "Yes" [ref=e326]
+                  - cell "Yes" [ref=e332]
+                  - cell "Yes" [ref=e338]
+                - row [ref=e344]:
+                  - rowheader [ref=e345]:
+                    - heading "Claude in Chrome" [level=4] [ref=e346]
+                  - cell "No" [ref=e347]
+                  - cell "Yes" [ref=e353]
+                  - cell "Yes" [ref=e359]
+                  - cell "Yes" [ref=e365]
+                - row [ref=e371]:
+                  - rowheader [ref=e372]:
+                    - heading "Claude for Microsoft 365" [level=4] [ref=e373]
+                  - cell "No" [ref=e374]
+                  - cell "Yes" [ref=e380]
+                  - cell "Yes" [ref=e386]
+                  - cell "Yes" [ref=e392]
+                - row [ref=e398]:
+                  - rowheader [ref=e399]:
+                    - heading "Claude for Microsoft Outlook" [level=4] [ref=e400]
+                  - cell "No" [ref=e401]
+                  - cell "Yes" [ref=e407]
+                  - cell "Yes" [ref=e413]
+                  - cell "Yes" [ref=e419]
+                - row [ref=e425]:
+                  - rowheader [ref=e426]:
+                    - heading "Chat on web, iOS, Android and Desktop" [level=4] [ref=e427]
+                  - cell "Yes" [ref=e428]
+                  - cell "Yes" [ref=e434]
+                  - cell "Yes" [ref=e440]
+                  - cell "Yes" [ref=e446]
+                - row [ref=e452]:
+                  - rowheader [ref=e453]:
+                    - heading "Claude Design, Slides, Docs" [level=4] [ref=e454]
+                  - cell "No" [ref=e455]
+                  - cell "Yes" [ref=e461]
+                  - cell "Yes" [ref=e467]
+                  - cell "Yes" [ref=e473]
+                - row [ref=e479]:
+                  - rowheader [ref=e480]:
+                    - heading "Ability to search the web" [level=4] [ref=e481]
+                  - cell "Yes" [ref=e482]
+                  - cell "Yes" [ref=e488]
+                  - cell "Yes" [ref=e494]
+                  - cell "Yes" [ref=e500]
+                - row [ref=e506]:
+                  - rowheader [ref=e507]:
+                    - heading [level=4] [ref=e508]:
+                      - text: Create Artifacts
+                      - button "More information" [ref=e510] [cursor=pointer]
+                  - cell "Yes" [ref=e514]
+                  - cell "Yes" [ref=e520]
+                  - cell "Yes" [ref=e526]
+                  - cell "Yes" [ref=e532]
+                - row [ref=e538]:
+                  - rowheader [ref=e539]:
+                    - heading "Desktop extensions" [level=4] [ref=e540]
+                  - cell "Yes" [ref=e541]
+                  - cell "Yes" [ref=e547]
+                  - cell "Yes" [ref=e553]
+                  - cell "Yes" [ref=e559]
+                - row [ref=e565]:
+                  - rowheader [ref=e566]:
+                    - heading "Voice mode" [level=4] [ref=e567]
+                  - cell "Yes" [ref=e568]
+                  - cell "Yes" [ref=e574]
+                  - cell "Yes" [ref=e580]
+                  - cell "Yes" [ref=e586]
+                - row [ref=e592]:
+                  - rowheader [ref=e593]:
+                    - heading [level=4] [ref=e594]:
+                      - text: Incognito chats
+                      - button "More information" [ref=e596] [cursor=pointer]
+                  - cell "Yes" [ref=e600]
+                  - cell "Yes" [ref=e606]
+                  - cell "Yes" [ref=e612]
+                  - cell "Yes" [ref=e618]
+                - row [ref=e624]:
+                  - rowheader [ref=e625]:
+                    - heading "User preferences" [level=4] [ref=e626]
+                  - cell "Yes" [ref=e627]
+                  - cell "Yes" [ref=e633]
+                  - cell "Yes" [ref=e639]
+                  - cell "Yes" [ref=e645]
+                - row [ref=e651]:
+                  - rowheader [ref=e652]:
+                    - heading "Projects" [level=4] [ref=e653]
+                  - cell "Up to 5" [ref=e654]
+                  - cell "Yes" [ref=e656]
+                  - cell "Yes" [ref=e662]
+                  - cell "Yes" [ref=e668]
+                - row [ref=e674]:
+                  - rowheader [ref=e675]:
+                    - heading "Project sharing and collaboration" [level=4] [ref=e676]
+                  - cell "No" [ref=e677]
+                  - cell "No" [ref=e683]
+                  - cell "No" [ref=e689]
+                  - cell "No" [ref=e695]
+                - row [ref=e701]:
+                  - rowheader [ref=e702]:
+                    - heading [level=4] [ref=e703]:
+                      - text: Create and edit files with code execution
+                      - button "More information" [ref=e705] [cursor=pointer]
+                  - cell "Yes" [ref=e709]
+                  - cell "Yes" [ref=e715]
+                  - cell "Yes" [ref=e721]
+                  - cell "Yes" [ref=e727]
+                - row [ref=e733]:
+                  - rowheader [ref=e734]:
+                    - heading "Research" [level=4] [ref=e735]
+                  - cell "No" [ref=e736]
+                  - cell "Yes" [ref=e742]
+                  - cell "Yes" [ref=e748]
+                  - cell "Yes" [ref=e754]
+                - row [ref=e760]:
+                  - rowheader [ref=e761]:
+                    - heading "Memory" [level=4] [ref=e762]
+                  - cell "Yes" [ref=e763]
+                  - cell "Yes" [ref=e769]
+                  - cell "Yes" [ref=e775]
+                  - cell "Yes" [ref=e781]
+                - row [ref=e787]:
+                  - rowheader [ref=e788]:
+                    - heading [level=4] [ref=e789]:
+                      - text: Skills
+                      - button "More information" [ref=e791] [cursor=pointer]
+                  - cell "Yes" [ref=e795]
+                  - cell "Yes" [ref=e801]
+                  - cell "Yes" [ref=e807]
+                  - cell "Yes" [ref=e813]
+                - row [ref=e819]:
+                  - rowheader [ref=e820]:
+                    - heading [level=4] [ref=e821]:
+                      - text: Connectors
+                      - button "More information" [ref=e823] [cursor=pointer]
+                  - cell "Yes" [ref=e827]
+                  - cell "Yes" [ref=e833]
+                  - cell "Yes" [ref=e839]
+                  - cell "Yes" [ref=e845]
+                - row [ref=e851]:
+                  - rowheader [ref=e852]:
+                    - heading "Web search" [level=4] [ref=e853]
+                  - cell "Yes" [ref=e854]
+                  - cell "Yes" [ref=e860]
+                  - cell "Yes" [ref=e866]
+                  - cell "Yes" [ref=e872]
+                - row [ref=e878]:
+                  - rowheader [ref=e879]:
+                    - heading [level=4] [ref=e880]:
+                      - text: Enterprise search
+                      - button "More information" [ref=e882] [cursor=pointer]
+                  - cell "No" [ref=e886]
+                  - cell "No" [ref=e892]
+                  - cell "No" [ref=e898]
+                  - cell "No" [ref=e904]
+          - group [ref=e910]:
+            - generic "Security and administration" [ref=e911] [cursor=pointer]:
+              - heading "Security and administration" [level=3]
+            - table "Security and administration" [ref=e913]:
+              - rowgroup [ref=e914]:
+                - row [ref=e915]:
+                  - columnheader "Features" [ref=e916]
+                  - columnheader "Free" [ref=e917]
+                  - columnheader "Pro" [ref=e918]
+                  - columnheader "Max 5x" [ref=e919]
+                  - columnheader "Max 20x" [ref=e920]
+              - rowgroup [ref=e921]:
+                - row [ref=e922]:
+                  - rowheader [ref=e923]:
+                    - heading "Single sign-on (SSO) and domain capture" [level=4] [ref=e924]
+                  - cell "No" [ref=e925]
+                  - cell "No" [ref=e931]
+                  - cell "No" [ref=e937]
+                  - cell "No" [ref=e943]
+                - row [ref=e949]:
+                  - rowheader [ref=e950]:
+                    - heading "Central billing and administration" [level=4] [ref=e951]
+                  - cell "No" [ref=e952]
+                  - cell "No" [ref=e958]
+                  - cell "No" [ref=e964]
+                  - cell "No" [ref=e970]
+                - row [ref=e976]:
+                  - rowheader [ref=e977]:
+                    - heading "Admin controls for remote and local connectors" [level=4] [ref=e978]
+                  - cell "No" [ref=e979]
+                  - cell "No" [ref=e985]
+                  - cell "No" [ref=e991]
+                  - cell "No" [ref=e997]
+                - row [ref=e1003]:
+                  - rowheader [ref=e1004]:
+                    - heading "Enterprise deployment for the Claude desktop app" [level=4] [ref=e1005]
+                  - cell "No" [ref=e1006]
+                  - cell "No" [ref=e1012]
+                  - cell "No" [ref=e1018]
+                  - cell "No" [ref=e1024]
+                - row [ref=e1030]:
+                  - rowheader [ref=e1031]:
+                    - heading "Role-based access" [level=4] [ref=e1032]
+                  - cell "No" [ref=e1033]
+                  - cell "No" [ref=e1039]
+                  - cell "No" [ref=e1045]
+                  - cell "No" [ref=e1051]
+                - row [ref=e1057]:
+                  - rowheader [ref=e1058]:
+                    - heading "System for Cross-domain Identity Management (SCIM)" [level=4] [ref=e1059]
+                  - cell "No" [ref=e1060]
+                  - cell "No" [ref=e1066]
+                  - cell "No" [ref=e1072]
+                  - cell "No" [ref=e1078]
+                - row [ref=e1084]:
+                  - rowheader [ref=e1085]:
+                    - heading "Audit logs" [level=4] [ref=e1086]
+                  - cell "No" [ref=e1087]
+                  - cell "No" [ref=e1093]
+                  - cell "No" [ref=e1099]
+                  - cell "No" [ref=e1105]
+                - row [ref=e1111]:
+                  - rowheader [ref=e1112]:
+                    - heading "Usage analytics" [level=4] [ref=e1113]
+                  - cell "No" [ref=e1114]
+                  - cell "No" [ref=e1120]
+                  - cell "No" [ref=e1126]
+                  - cell "No" [ref=e1132]
+                - row [ref=e1138]:
+                  - rowheader [ref=e1139]:
+                    - heading "Compliance API" [level=4] [ref=e1140]
+                  - cell "No" [ref=e1141]
+                  - cell "No" [ref=e1147]
+                  - cell "No" [ref=e1153]
+                  - cell "No" [ref=e1159]
+                - row [ref=e1165]:
+                  - rowheader [ref=e1166]:
+                    - heading "HIPAA-ready offering" [level=4] [ref=e1167]
+                  - cell "No" [ref=e1168]
+                  - cell "No" [ref=e1174]
+                  - cell "No" [ref=e1180]
+                  - cell "No" [ref=e1186]
+                - row [ref=e1192]:
+                  - rowheader [ref=e1193]:
+                    - heading "Custom data retention controls" [level=4] [ref=e1194]
+                  - cell "No" [ref=e1195]
+                  - cell "No" [ref=e1201]
+                  - cell "No" [ref=e1207]
+                  - cell "No" [ref=e1213]
+                - row [ref=e1219]:
+                  - rowheader [ref=e1220]:
+                    - heading "Organization wide skills deployment" [level=4] [ref=e1221]
+                  - cell "No" [ref=e1222]
+                  - cell "No" [ref=e1228]
+                  - cell "No" [ref=e1234]
+                  - cell "No" [ref=e1240]
+          - group [ref=e1246]:
+            - generic "Payment options" [ref=e1247] [cursor=pointer]:
+              - heading "Payment options" [level=3]
+            - table "Payment options" [ref=e1249]:
+              - rowgroup [ref=e1250]:
+                - row [ref=e1251]:
+                  - columnheader "Features" [ref=e1252]
+                  - columnheader "Free" [ref=e1253]
+                  - columnheader "Pro" [ref=e1254]
+                  - columnheader "Max 5x" [ref=e1255]
+                  - columnheader "Max 20x" [ref=e1256]
+              - rowgroup [ref=e1257]:
+                - row [ref=e1258]:
+                  - rowheader [ref=e1259]:
+                    - heading "Credit card" [level=4] [ref=e1260]
+                  - cell "n/a" [ref=e1261]
+                  - cell "Yes" [ref=e1263]
+                  - cell "Yes" [ref=e1269]
+                  - cell "Yes" [ref=e1275]
+                - row [ref=e1281]:
+                  - rowheader [ref=e1282]:
+                    - heading "ACH" [level=4] [ref=e1283]
+                  - cell "No" [ref=e1284]
+                  - cell "No" [ref=e1290]
+                  - cell "No" [ref=e1296]
+                  - cell "No" [ref=e1302]
+                - row [ref=e1308]:
+                  - rowheader [ref=e1309]:
+                    - heading "Invoicing / net terms" [level=4] [ref=e1310]
+                  - cell "No" [ref=e1311]
+                  - cell "No" [ref=e1317]
+                  - cell "No" [ref=e1323]
+                  - cell "No" [ref=e1329]
+                - row [ref=e1335]:
+                  - rowheader [ref=e1336]:
+                    - heading "Billing cycle" [level=4] [ref=e1337]
+                  - cell "n/a" [ref=e1338]
+                  - cell "Monthly and annual" [ref=e1340]
+                  - cell "Monthly" [ref=e1342]
+                  - cell "Monthly" [ref=e1344]
+                - row [ref=e1346]:
+                  - rowheader [ref=e1347]:
+                    - heading "Adding seats midterm" [level=4] [ref=e1348]
+                  - cell "n/a" [ref=e1349]
+                  - cell "n/a" [ref=e1351]
+                  - cell "n/a" [ref=e1353]
+                  - cell "n/a" [ref=e1355]
+          - group [ref=e1357]:
+            - generic "Models and usage" [ref=e1358] [cursor=pointer]:
+              - heading "Models and usage" [level=3]
+            - table "Models and usage" [ref=e1360]:
+              - rowgroup [ref=e1361]:
+                - row [ref=e1362]:
+                  - columnheader "Features" [ref=e1363]
+                  - columnheader "Free" [ref=e1364]
+                  - columnheader "Pro" [ref=e1365]
+                  - columnheader "Max 5x" [ref=e1366]
+                  - columnheader "Max 20x" [ref=e1367]
+              - rowgroup [ref=e1368]:
+                - row [ref=e1369]:
+                  - rowheader [ref=e1370]:
+                    - heading [level=4] [ref=e1371]:
+                      - text: Fable
+                      - button "More information" [ref=e1373] [cursor=pointer]
+                  - cell "No" [ref=e1377]
+                  - cell "Usage credits" [ref=e1383]
+                  - cell "50% of weekly limits*" [ref=e1385]
+                  - cell "50% of weekly limits*" [ref=e1387]
+                - row [ref=e1389]:
+                  - rowheader [ref=e1390]:
+                    - heading "Opus" [level=4] [ref=e1391]
+                  - cell "No" [ref=e1392]
+                  - cell "Yes" [ref=e1398]
+                  - cell "Yes" [ref=e1404]
+                  - cell "Yes" [ref=e1410]
+                - row [ref=e1416]:
+                  - rowheader [ref=e1417]:
+                    - heading "Sonnet" [level=4] [ref=e1418]
+                  - cell "Yes" [ref=e1419]
+                  - cell "Yes" [ref=e1425]
+                  - cell "Yes" [ref=e1431]
+                  - cell "Yes" [ref=e1437]
+                - row [ref=e1443]:
+                  - rowheader [ref=e1444]:
+                    - heading "Haiku" [level=4] [ref=e1445]
+                  - cell "Yes" [ref=e1446]
+                  - cell "Yes" [ref=e1452]
+                  - cell "Yes" [ref=e1458]
+                  - cell "Yes" [ref=e1464]
+                - row [ref=e1470]:
+                  - rowheader [ref=e1471]:
+                    - heading [level=4] [ref=e1472]:
+                      - text: Context window
+                      - button "More information" [ref=e1474] [cursor=pointer]
+                  - cell "Up to 1M varies by model" [ref=e1478]:
+                    - generic [ref=e1479]: Up to 1M
+                    - generic [ref=e1480]: varies by model
+                  - cell "Up to 1M varies by model" [ref=e1481]:
+                    - generic [ref=e1482]: Up to 1M
+                    - generic [ref=e1483]: varies by model
+                  - cell "Up to 1M varies by model" [ref=e1484]:
+                    - generic [ref=e1485]: Up to 1M
+                    - generic [ref=e1486]: varies by model
+                  - cell "Up to 1M varies by model" [ref=e1487]:
+                    - generic [ref=e1488]: Up to 1M
+                    - generic [ref=e1489]: varies by model
+                - row [ref=e1490]:
+                  - rowheader [ref=e1491]:
+                    - heading [level=4] [ref=e1492]:
+                      - text: Usage credits
+                      - button "More information" [ref=e1494] [cursor=pointer]
+                  - cell "No" [ref=e1498]
+                  - cell "Yes" [ref=e1504]
+                  - cell "Yes" [ref=e1510]
+                  - cell "Yes" [ref=e1516]
+                - row [ref=e1522]:
+                  - rowheader [ref=e1523]:
+                    - heading "Priority access at high traffic times" [level=4] [ref=e1524]
+                  - cell "No" [ref=e1525]
+                  - cell "No" [ref=e1531]
+                  - cell "Yes" [ref=e1537]
+                  - cell "Yes" [ref=e1543]
+                - row [ref=e1549]:
+                  - rowheader [ref=e1550]:
+                    - heading "User and organizational level spend controls" [level=4] [ref=e1551]
+                  - cell "No" [ref=e1552]
+                  - cell "No" [ref=e1558]
+                  - cell "No" [ref=e1564]
+                  - cell "No" [ref=e1570]
+                - row [ref=e1576]:
+                  - rowheader [ref=e1577]:
+                    - heading [level=4] [ref=e1578]:
+                      - text: Model training
+                      - button "More information" [ref=e1580] [cursor=pointer]
+                  - cell "Opt-out" [ref=e1584]
+                  - cell "Opt-out" [ref=e1586]
+                  - cell "Opt-out" [ref=e1588]
+                  - cell "Opt-out" [ref=e1590]
+    - generic [ref=e1593]:
+      - heading "FAQ" [level=2] [ref=e1596]:
+        - generic [aria-hidden] [ref=e1597]: FAQ
+      - tablist [ref=e1600]:
+        - tab "Plans and usage" [selected] [ref=e1601] [cursor=pointer]
+        - tab "Billing and payments" [ref=e1602] [cursor=pointer]
+        - tab "Managing your plan" [ref=e1603] [cursor=pointer]
+      - tabpanel "Plans and usage" [ref=e1604]:
+        - generic [ref=e1606]:
+          - heading "Plans and usage" [level=3] [ref=e1607]
+          - generic [ref=e1608]:
+            - generic [ref=e1609]:
+              - heading [level=4] [ref=e1610]:
+                - button "What do I get with Claude Pro?" [ref=e1611] [cursor=pointer]
+              - paragraph [ref=e1617]:
+                - text: The
+                - link [ref=e1618] [cursor=pointer]:
+                  - /url: https://support.claude.com/en/articles/8325606-what-is-the-pro-plan
+                  - text: Pro plan
+                - text: gives you everything in a Free plan with more usage and more of Claude's capabilities. That includes Claude Code, Claude Design, Slides, and Docs, along with projects to organize your chats and documents, access to more Claude models, and Claude for Microsoft 365. You can choose a monthly or annual subscription.
+            - generic [ref=e1619]:
+              - heading [level=4] [ref=e1620]:
+                - button "How is Claude Max different from Pro?" [ref=e1621] [cursor=pointer]
+              - paragraph [ref=e1627]:
+                - text: The
+                - link [ref=e1628] [cursor=pointer]:
+                  - /url: https://support.claude.com/en/articles/11049741-what-is-the-max-plan
+                  - text: Max plan
+                - text: "is built for people who work with Claude throughout the day and want longer, uninterrupted sessions. You get everything in Pro, plus more usage: choose from 5x or 20x the usage of Pro per 5-hour session. Max also gives you higher output limits. Both options are billed monthly. See the cards above for current pricing."
+            - generic [ref=e1629]:
+              - heading [level=4] [ref=e1630]:
+                - button "What are the usage limits on each plan, and what happens when I hit them?" [ref=e1631] [cursor=pointer]
+              - paragraph [ref=e1637]:
+                - text: Every plan has
+                - link [ref=e1638] [cursor=pointer]:
+                  - /url: https://support.claude.com/en/articles/9797557-usage-limit-best-practices
+                  - text: usage limits
+                - text: that reset on a rolling five-hour session window, and paid plans add weekly limits on top. Your activity across Claude on web, desktop, mobile, and Claude Code all draws from the same pool. How much you can do depends on the length and complexity of your conversations, the model you choose, and the features you use, so there's no fixed message count. Free covers everyday questions. Pro gives you at least 5x more usage per 5-hour session than Free. Max gives you 5x or 20x more usage per 5-hour session than Pro. On Team plans, Standard seats give more than Pro and Premium seats give 5x more than Standard. To manage capacity and make sure all users have fair access, we may limit your usage in other ways, such as weekly and monthly caps or model and feature usage, at our discretion. When you reach a limit, you can wait for it to reset, move to a higher plan, or, on paid plans, turn on
+                - link [ref=e1639] [cursor=pointer]:
+                  - /url: https://support.claude.com/en/articles/12429409-manage-usage-credits-for-paid-claude-plans
+                  - text: usage credits
+                - text: to keep working at standard API rates. You can see where you stand anytime in
+                - link [ref=e1640] [cursor=pointer]:
+                  - /url: https://claude.ai/settings/usage
+                  - text: Settings > Usage
+                - text: .
+            - generic [ref=e1641]:
+              - heading [level=4] [ref=e1642]:
+                - button "Is Claude Code included in my plan?" [ref=e1643] [cursor=pointer]
+              - paragraph [ref=e1649]:
+                - link [ref=e1650] [cursor=pointer]:
+                  - /url: https://claude.com/product/claude-code
+                  - text: Claude Code
+                - text: is included in all paid plans. It shares the same usage limits as the rest of your plan, so your work in the terminal and your chats draw from one pool. For heavy coding sessions, you can also switch to pay-as-you-go API credits through a
+                - link [ref=e1651] [cursor=pointer]:
+                  - /url: https://platform.claude.com/
+                  - text: Console account
+                - text: .
+            - generic [ref=e1652]:
+              - heading [level=4] [ref=e1653]:
+                - button "How much does the Claude Enterprise plan cost?" [ref=e1654] [cursor=pointer]
+              - paragraph [ref=e1660]:
+                - text: The
+                - link [ref=e1661] [cursor=pointer]:
+                  - /url: https://claude.com/solutions/enterprise
+                  - text: Claude Enterprise plan
+                - text: is built for large businesses operating at scale. Pricing is $20 per seat per month plus usage billed at API rates, so cost scales with the models and tasks your team runs. Enterprise is billed annually and includes everything in Team plus advanced security and admin controls, including SCIM, audit logs, custom data retention, and role-based access. You can get started self-serve or
+                - link [ref=e1662] [cursor=pointer]:
+                  - /url: https://claude.com/contact-sales
+                  - text: contact sales
+                - text: for a tailored quote.
+  - contentinfo [ref=e1663]:
+    - generic [ref=e1664]:
+      - generic [ref=e1665]:
+        - generic [ref=e1666]:
+          - generic [ref=e1667]:
+            - link [ref=e1668] [cursor=pointer]:
+              - /url: /
+              - img "Claude" [ref=e1669]
+            - generic [ref=e1673]:
+              - textbox "Ask Claude" [ref=e1674]:
+                - /placeholder: How can I help you today?
+              - button "Submit" [ref=e1675] [cursor=pointer]
+          - generic [ref=e1680]:
+            - img "Anthropic" [ref=e1681]
+            - paragraph [ref=e1691]: © 2026 Anthropic PBC
+        - generic [ref=e1693]:
+          - generic [ref=e1694]:
+            - generic [ref=e1695]:
+              - heading "Products" [level=2] [ref=e1696]
+              - list [ref=e1697]:
+                - listitem [ref=e1698]:
+                  - link "Claude" [ref=e1699] [cursor=pointer]:
+                    - /url: /product/overview
+                - listitem [ref=e1700]:
+                  - link "Claude Code" [ref=e1701] [cursor=pointer]:
+                    - /url: /product/claude-code
+                - listitem [ref=e1702]:
+                  - link "Claude Cowork" [ref=e1703] [cursor=pointer]:
+                    - /url: /product/cowork
+                - listitem [ref=e1704]:
+                  - link "@Claude" [ref=e1705] [cursor=pointer]:
+                    - /url: /product/tag
+                - listitem [ref=e1706]:
+                  - link "Claude Science" [ref=e1707] [cursor=pointer]:
+                    - /url: /product/claude-science
+                - listitem [ref=e1708]:
+                  - link "Claude Security" [ref=e1709] [cursor=pointer]:
+                    - /url: /product/claude-security
+                - listitem [ref=e1710]:
+                  - link "Download app" [ref=e1711] [cursor=pointer]:
+                    - /url: /download
+                - listitem [ref=e1712]:
+                  - link "Pricing" [ref=e1713] [cursor=pointer]:
+                    - /url: /pricing
+                - listitem [ref=e1714]:
+                  - link "Log in" [ref=e1715] [cursor=pointer]:
+                    - /url: https://claude.ai/login
+            - generic [ref=e1716]:
+              - heading "Capabilities" [level=2] [ref=e1717]
+              - list [ref=e1718]:
+                - listitem [ref=e1719]:
+                  - link "Artifacts" [ref=e1720] [cursor=pointer]:
+                    - /url: /features/artifacts
+                - listitem [ref=e1721]:
+                  - link "Design" [ref=e1722] [cursor=pointer]:
+                    - /url: /product/design
+                - listitem [ref=e1723]:
+                  - link "Connectors" [ref=e1724] [cursor=pointer]:
+                    - /url: /marketplace/connectors-plugins
+                - listitem [ref=e1725]:
+                  - link "Plugins" [ref=e1726] [cursor=pointer]:
+                    - /url: /marketplace/plugins
+                - listitem [ref=e1727]:
+                  - link "Skills" [ref=e1728] [cursor=pointer]:
+                    - /url: /skills
+            - generic [ref=e1729]:
+              - heading "Extensions" [level=2] [ref=e1730]
+              - list [ref=e1731]:
+                - listitem [ref=e1732]:
+                  - link "Claude in Chrome" [ref=e1733] [cursor=pointer]:
+                    - /url: /claude-in-chrome
+                - listitem [ref=e1734]:
+                  - link "Claude for Microsoft 365" [ref=e1735] [cursor=pointer]:
+                    - /url: /claude-for-microsoft-365
+            - generic [ref=e1736]:
+              - heading "Models" [level=2] [ref=e1737]
+              - list [ref=e1738]:
+                - listitem [ref=e1739]:
+                  - link "Mythos" [ref=e1740] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/claude/mythos
+                - listitem [ref=e1741]:
+                  - link "Fable" [ref=e1742] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/claude/fable
+                - listitem [ref=e1743]:
+                  - link "Opus" [ref=e1744] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/claude/opus
+                - listitem [ref=e1745]:
+                  - link "Sonnet" [ref=e1746] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/claude/sonnet
+                - listitem [ref=e1747]:
+                  - link "Haiku" [ref=e1748] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/claude/haiku
+          - generic [ref=e1749]:
+            - generic [ref=e1750]:
+              - heading "Enterprise" [level=2] [ref=e1751]
+              - list [ref=e1752]:
+                - listitem [ref=e1753]:
+                  - link "Overview" [ref=e1754] [cursor=pointer]:
+                    - /url: /solutions/enterprise
+                - listitem [ref=e1755]:
+                  - link "Claude Code for Enterprise" [ref=e1756] [cursor=pointer]:
+                    - /url: /product/claude-code/enterprise
+            - generic [ref=e1757]:
+              - heading "Departments" [level=2] [ref=e1758]
+              - list [ref=e1759]:
+                - listitem [ref=e1760]:
+                  - link "Customer support" [ref=e1761] [cursor=pointer]:
+                    - /url: /solutions/customer-support
+                - listitem [ref=e1762]:
+                  - link "Cybersecurity" [ref=e1763] [cursor=pointer]:
+                    - /url: /solutions/cybersecurity
+                - listitem [ref=e1764]:
+                  - link "Legal" [ref=e1765] [cursor=pointer]:
+                    - /url: /solutions/legal
+                - listitem [ref=e1766]:
+                  - link "Sales" [ref=e1767] [cursor=pointer]:
+                    - /url: /solutions/sales
+            - generic [ref=e1768]:
+              - heading "Industries" [level=2] [ref=e1769]
+              - list [ref=e1770]:
+                - listitem [ref=e1771]:
+                  - link "Financial services" [ref=e1772] [cursor=pointer]:
+                    - /url: /solutions/financial-services
+                - listitem [ref=e1773]:
+                  - link "Government" [ref=e1774] [cursor=pointer]:
+                    - /url: /solutions/government
+                - listitem [ref=e1775]:
+                  - link "Healthcare" [ref=e1776] [cursor=pointer]:
+                    - /url: /solutions/healthcare
+                - listitem [ref=e1777]:
+                  - link "Higher education" [ref=e1778] [cursor=pointer]:
+                    - /url: /solutions/education
+                - listitem [ref=e1779]:
+                  - link "K-12 teachers" [ref=e1780] [cursor=pointer]:
+                    - /url: /solutions/teachers
+                - listitem [ref=e1781]:
+                  - link "Life sciences" [ref=e1782] [cursor=pointer]:
+                    - /url: /solutions/life-sciences
+                - listitem [ref=e1783]:
+                  - link "Nonprofits" [ref=e1784] [cursor=pointer]:
+                    - /url: /solutions/nonprofits
+                - listitem [ref=e1785]:
+                  - link "Small business" [ref=e1786] [cursor=pointer]:
+                    - /url: /solutions/small-business
+            - generic [ref=e1787]:
+              - heading "Programs" [level=2] [ref=e1788]
+              - list [ref=e1789]:
+                - listitem [ref=e1790]:
+                  - link "Startups" [ref=e1791] [cursor=pointer]:
+                    - /url: /programs/startups
+                - listitem [ref=e1792]:
+                  - link "Scientists" [ref=e1793] [cursor=pointer]:
+                    - /url: /programs/team-plan-for-scientists
+          - generic [ref=e1794]:
+            - generic [ref=e1795]:
+              - heading "Developers" [level=2] [ref=e1796]
+              - list [ref=e1797]:
+                - listitem [ref=e1798]:
+                  - link "Developer docs" [ref=e1799] [cursor=pointer]:
+                    - /url: https://code.claude.com/docs/en/overview
+                - listitem [ref=e1800]:
+                  - link "Developer blog" [ref=e1801] [cursor=pointer]:
+                    - /url: https://claude.dev
+                - listitem [ref=e1802]:
+                  - link "Community" [ref=e1803] [cursor=pointer]:
+                    - /url: /community
+                - listitem [ref=e1804]:
+                  - link "Console" [ref=e1805] [cursor=pointer]:
+                    - /url: https://platform.claude.com/docs/en/home
+                - listitem [ref=e1806]:
+                  - link "Engineering at Anthropic" [ref=e1807] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/engineering
+            - generic [ref=e1808]:
+              - heading "Platform" [level=2] [ref=e1809]
+              - list [ref=e1810]:
+                - listitem [ref=e1811]:
+                  - link "Overview" [ref=e1812] [cursor=pointer]:
+                    - /url: /platform/api
+                - listitem [ref=e1813]:
+                  - link "Marketplace" [ref=e1814] [cursor=pointer]:
+                    - /url: /marketplace
+                - listitem [ref=e1815]:
+                  - link "Claude on AWS" [ref=e1816] [cursor=pointer]:
+                    - /url: /partners/claude-on-aws
+                - listitem [ref=e1817]:
+                  - link "Google Cloud" [ref=e1818] [cursor=pointer]:
+                    - /url: /partners/google-cloud
+                - listitem [ref=e1819]:
+                  - link "Microsoft Foundry" [ref=e1820] [cursor=pointer]:
+                    - /url: /partners/microsoft-foundry
+            - generic [ref=e1821]:
+              - heading "Resources" [level=2] [ref=e1822]
+              - list [ref=e1823]:
+                - listitem [ref=e1824]:
+                  - link "Blog" [ref=e1825] [cursor=pointer]:
+                    - /url: /blog
+                - listitem [ref=e1826]:
+                  - link "Claude partner network" [ref=e1827] [cursor=pointer]:
+                    - /url: /partners
+                - listitem [ref=e1828]:
+                  - link "Claude Academy" [ref=e1829] [cursor=pointer]:
+                    - /url: https://academy.claude.com/
+                - listitem [ref=e1830]:
+                  - link "Customer stories" [ref=e1831] [cursor=pointer]:
+                    - /url: /customers
+                - listitem [ref=e1832]:
+                  - link "Events" [ref=e1833] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/events
+                - listitem [ref=e1834]:
+                  - link "Powered by Claude" [ref=e1835] [cursor=pointer]:
+                    - /url: /partners/powered-by-claude
+                - listitem [ref=e1836]:
+                  - link "Service partners" [ref=e1837] [cursor=pointer]:
+                    - /url: /marketplace/service-partners
+            - generic [ref=e1838]:
+              - heading "Help and security" [level=2] [ref=e1839]
+              - list [ref=e1840]:
+                - listitem [ref=e1841]:
+                  - link "Availability" [ref=e1842] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/supported-countries
+                - listitem [ref=e1843]:
+                  - link "Check files" [ref=e1844] [cursor=pointer]:
+                    - /url: /check-files
+                - listitem [ref=e1845]:
+                  - link "Regional compliance" [ref=e1846] [cursor=pointer]:
+                    - /url: /regional-compliance
+                - listitem [ref=e1847]:
+                  - link "Report abuse" [ref=e1848] [cursor=pointer]:
+                    - /url: /form/anthropic-content-reporting
+                - listitem [ref=e1849]:
+                  - link "Security and compliance" [ref=e1850] [cursor=pointer]:
+                    - /url: https://trust.anthropic.com/
+                - listitem [ref=e1851]:
+                  - link "Status" [ref=e1852] [cursor=pointer]:
+                    - /url: https://status.anthropic.com/
+                - listitem [ref=e1853]:
+                  - link "Support center" [ref=e1854] [cursor=pointer]:
+                    - /url: https://support.claude.com/en/
+          - generic [ref=e1855]:
+            - generic [ref=e1856]:
+              - heading "Company" [level=2] [ref=e1857]
+              - list [ref=e1858]:
+                - listitem [ref=e1859]:
+                  - link "Anthropic" [ref=e1860] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/
+                - listitem [ref=e1861]:
+                  - link "Careers" [ref=e1862] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/careers
+                - listitem [ref=e1863]:
+                  - link "Policy" [ref=e1864] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/policy
+                - listitem [ref=e1865]:
+                  - link "Research" [ref=e1866] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/research
+                - listitem [ref=e1867]:
+                  - link "Anthropic news" [ref=e1868] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/news
+                - listitem [ref=e1869]:
+                  - link "Policy on the AI Exponential" [ref=e1870] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/policy-on-the-ai-exponential
+                - listitem [ref=e1871]:
+                  - link "Responsible Scaling Policy" [ref=e1872] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy
+                - listitem [ref=e1873]:
+                  - link "Transparency" [ref=e1874] [cursor=pointer]:
+                    - /url: https://anthropic.com/transparency
+            - generic [ref=e1875]:
+              - heading "Terms and policies" [level=2] [ref=e1876]
+              - list [ref=e1877]:
+                - listitem [ref=e1878]:
+                  - button "Privacy choices" [ref=e1879] [cursor=pointer]
+                - listitem [ref=e1880]:
+                  - link "Privacy policy" [ref=e1881] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/legal/privacy
+                - listitem [ref=e1882]:
+                  - link "Responsible disclosure policy" [ref=e1883] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/responsible-disclosure-policy
+                - listitem [ref=e1884]:
+                  - 'link "Terms of service: Commercial" [ref=e1885] [cursor=pointer]':
+                    - /url: https://www.anthropic.com/legal/commercial-terms
+                - listitem [ref=e1886]:
+                  - 'link "Terms of service: Consumer" [ref=e1887] [cursor=pointer]':
+                    - /url: https://www.anthropic.com/legal/consumer-terms
+                - listitem [ref=e1888]:
+                  - 'link "Terms of Service: US K-12" [ref=e1889] [cursor=pointer]':
+                    - /url: https://anthropic.com/legal/k12-terms
+                - listitem [ref=e1890]:
+                  - 'link "Data Processing Agreement: US K-12" [ref=e1891] [cursor=pointer]':
+                    - /url: https://anthropic.com/legal/k12-dpa
+                - listitem [ref=e1892]:
+                  - link "Usage Policy" [ref=e1893] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/legal/aup
+      - generic [ref=e1894]:
+        - separator [ref=e1895]
+        - generic [ref=e1896]:
+          - generic [ref=e1897]:
+            - link "X (Twitter)" [ref=e1898] [cursor=pointer]:
+              - /url: https://x.com/claudeai
+            - link "Threads" [ref=e1901] [cursor=pointer]:
+              - /url: https://www.threads.com/@claudeai
+            - link "LinkedIn" [ref=e1904] [cursor=pointer]:
+              - /url: https://www.linkedin.com/showcase/claude/
+            - link "YouTube" [ref=e1907] [cursor=pointer]:
+              - /url: https://www.youtube.com/@anthropic-ai
+            - link "Instagram" [ref=e1910] [cursor=pointer]:
+              - /url: https://www.instagram.com/claudeai
+          - 'button "Language: English" [ref=e1915] [cursor=pointer]':
+            - generic [ref=e1919]: English
